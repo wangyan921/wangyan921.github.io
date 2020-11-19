@@ -15,7 +15,7 @@ Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai, P. R. China
 
 
-<font color=#000000>I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</font>
+<font color=rgb(102, 51, 0)>I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</font>
 
 
 
