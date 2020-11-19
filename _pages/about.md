@@ -9,17 +9,23 @@ redirect_from:
 ---
 
 Associate Professor
+
 AI Institue, Shanghai Jiao Tong University
 
+I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.
 
-Research Interests
+**Research Interests**
 ======
 Computer Vision, Pattern Recognition, Machine Learning, Medical Image Analysis
 
 **Recent News**
 ======
+- One paper has been accepted to IROS 2020.
+>* [Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks] (https://arxiv.org/pdf/2007.04505.pdf)
 - One paper has been accepted to ECCV 2020 as oral.
->* [Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation] (https://arxiv.org/abs/2003.08440)
+>* [Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation] (https://arxiv.org/pdf/2003.08440.pdf)
+- One paper has been accepted to CVPR 2020 as oral
+>* [Deep Distance Transform for Tubular Structure Segmentation in CT Scans] (https://arxiv.org/pdf/1912.03383.pdf)
 - Two papers have been accepted to MICCAI 2020
 >* [Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble](https://arxiv.org/pdf/2003.08441.pdf)
 >* [Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation](https://arxiv.org/pdf/2005.09120.pdf)
