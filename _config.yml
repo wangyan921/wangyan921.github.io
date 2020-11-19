@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wei Shen"
   avatar           : "Wei-Shen.jpg"
-  bio              : "Associate Professor"
-  location         : "Location"
+  bio              : "Associate Professor, Shanghai Jiao Tong University"
+  location         : #"Location"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN"
-  email            :  shenwei1231@gmail.com
+  email            :  wei.shen@sjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
