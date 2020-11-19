@@ -27,9 +27,9 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. **Micro-Batch Tr
 
 **Conference**
 ======
-Daniil Pakhomov, **Wei Shen**, Nassir Navab. **Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. (PDF)
+Daniil Pakhomov, **Wei Shen**, Nassir Navab. **Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
-Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. **Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**. European Conference on Computer Vision (ECCV), Glasgow, UK, 2020 [Oral]. (PDF) (CODE)
+Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. **Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**. European Conference on Computer Vision (ECCV), Glasgow, UK, 2020 <font color=LightCoral>[Oral]<\font>. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) (CODE)
 
 ​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. **Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble**. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
 
