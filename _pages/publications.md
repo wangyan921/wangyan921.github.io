@@ -17,13 +17,13 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 **Preprints**
 ======
 
-Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. CO2: Consistent Contrast for Unsupervised Visual Representation Learning. arXiv: 2010.02217. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
+Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. **CO2: Consistent Contrast for Unsupervised Visual Representation Learning**. arXiv: 2010.02217. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
 
-Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. Shape-Texture Debiased Neural Network Training. arXiv: 2010.05981. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. **Shape-Texture Debiased Neural Network Training**. arXiv: 2010.05981. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
 
-Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. Deeply Shape-guided Instance Segmentation. arXiv: 1911.11263.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
+Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. **Deeply Shape-guided Instance Segmentation**. arXiv: 1911.11263.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
-Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. Micro-Batch Training with Batch-Channel Normalization and Weight Standardization. arXiv:1903.10520. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
+Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. **Micro-Batch Training with Batch-Channel Normalization and Weight Standardization**. arXiv:1903.10520. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
@@ -91,5 +91,42 @@ Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. Ensemble of Randomized Linear Di
 
 Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. Shape Classification Using Tree Unions. International Conference on Pattern Recognition (ICPR), Istanbul, Turkey, 2010. (PDF)
 
+**Journal**
+======
+**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. Deep Differentiable Random Forests for Age Estimation. IEEE Trans. Pattern Analysis and Machine Intelligence, 2019. (PDF) (CODE)
+
+​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. Abdominal multi-organ segmentation with organ-attention networks and statistical fusion. Medical Image Analysis, 2019. (PDF)
+
+Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. PCL: Proposal Cluster Learning for Weakly Supervised Object Detection. IEEE Trans. Pattern Analysis and Machine Intelligence, 2018. (PDF)
+
+​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  Bag of Shape Features with A Learned Pooling Function for Shape Recognition. Pattern Recognition Letters, 106(15): 33–40, 2018. (PDF)
+
+Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. Fast Cascade Face Detection with Pyramid Network. Pattern Recognition Letters, 2018.
+
+**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Xiang Bai, Alan Yuille. DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images. IEEE Trans. Image Processing, 26(11): 5298 - 5311, 2017. (PDF) (Project Page)
+
+Dan Zeng​, Ting Zhang, Rui Fang, **Wei Shen**, Qi Tian. Neighborhood Geometry Based Feature Matching for Geostationary Satellite Remote Sensing Image. Neurocomputing, 236: 65-72, 2017. (PDF)
+
+**Wei Shen**, Xiang Bai, Zihao Hu, Zhijiang Zhang. Multiple Instance Subspace Learning via Partial Random Projection Tree for Local Reflection Symmetry in Natural Images. Pattern Recognition, 52(4): 306-316, 2016. (PDF) ﻿﻿﻿(PR-curve Data)﻿﻿﻿ ﻿(WH-SYMMAX dataset)﻿
+
+**Wei Shen**, Yuan Jiang, Wenjing Gao, Dan Zeng, Xinggang Wang. Shape Recognition by Bag of Skeleton-associated Contour Parts. Pattern Recognition Letters, 83: 321-329, 2016. (PDF) (CODE)
+
+**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. Exemplar-based Human Action Pose Correction. IEEE Trans. Cybernetics, 44(7﻿): 1053-1066, 2014. (PDF)
+
+**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. Shape Clustering: Common Structure Discovery. Pattern Recognition 46(2): 539-550, 2013. (PDF) (CODE)
+
+**Wei Shen**, Bo Wang, Yueming Wang, Xiang Bai, Longin Jan Latecki. Face Identification Using Reference-based Features with Message Passing Model. Neurocomputing, 99: 339-346, 2013. (PDF)
+
+**Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error. SCIENCE CHINA Information Sciences, 56(4): 1-14, 2013. (PDF) (CODE)
+
+**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. Skeleton Growing and Pruning with Bending Potential Ratio. Pattern Recognition 44(2): 196-209, 2011. (PDF) (CODE)
+
+Rong Hu, **Wei Shen**, Hongyuan Wang. Recursive Spatiotemporal Subspace Learning for Gait Recognition. Neurocomputing, 73(10-12): 1892-1899, 2010.
+
 **Book Chapter**
 ======
+**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. Skeletonization in Natural Images and Its Application to Object Recognition, in "Skeletonization: Theory, Methods, and Applications", Punam Saha, Gunilla Borgefors, Gabriella Sanniti di Baja (Ed.), Academic Press, 2017. ISBN: 978-0-081-01291-8.
+
+Yuyin Zhou, Qihang Yu, Yan Wang, Lingxi Xie, **Wei Shen**, Elliot K.Fishman, Alan Yuille. 2D-Based Coarse-to-Fine Approaches for Small Target Segmentation in Abdominal CT Scans, in "Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
+
+Yingwei Li, Zhuotun Zhu, Yuyin Zhou, Yingda Xia, **Wei Shen**, Elliot K.Fishman, Alan Yuille. Volumetric Medical Image Segmentation: A 3D Deep Coarse-to-Fine Framework and Its Adversarial Examples, ​in "Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
