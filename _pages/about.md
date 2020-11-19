@@ -10,13 +10,14 @@ redirect_from:
 
 Associate Professor
 
-AI Institue
-Shanghai Jiao Tong University 
-<address>
+AI Institue <br>
+Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai, P. R. China
-</address>
 
-<table><tr><td bgcolor=yellow>I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</td></tr></table>
+
+<font color=#F6C799>I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</font>
+
+
 
 
 **Research Interests**
