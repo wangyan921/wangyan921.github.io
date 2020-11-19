@@ -17,7 +17,7 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 **Preprints**
 ======
 
-Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. **CO2: Consistent Contrast for Unsupervised Visual Representation Learning**. arXiv: 2010.02217. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
+Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color=Gray>CO2: Consistent Contrast for Unsupervised Visual Representation Learning<\font>. arXiv: 2010.02217. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
 
 Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. **Shape-Texture Debiased Neural Network Training**. arXiv: 2010.05981. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
 
