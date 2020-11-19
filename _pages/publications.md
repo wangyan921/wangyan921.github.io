@@ -27,15 +27,15 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. **Micro-Batch Tr
 
 **Conference**
 ======
-Daniil Pakhomov, **Wei Shen**, Nassir Navab. Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. (PDF)
+Daniil Pakhomov, **Wei Shen**, Nassir Navab. **Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. (PDF)
 
-Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation. European Conference on Computer Vision (ECCV), Glasgow, UK, 2020 [Oral]. (PDF) (CODE)
+Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. **Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**. European Conference on Computer Vision (ECCV), Glasgow, UK, 2020 [Oral]. (PDF) (CODE)
 
-​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
+​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. **Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble**. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
 
-Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
+Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation**. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
 
-Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. Deep Distance Transform for Tubular Structure Segmentation in CT Scans. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2020 [Oral]. (PDF)
+Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Deep Distance Transform for Tubular Structure Segmentation in CT Scans**. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2020 [Oral]. (PDF)
 
 Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. Robust Face Detection via Learning Small Faces on Hard Images. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020. (PDF)  
 
