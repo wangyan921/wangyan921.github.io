@@ -11,14 +11,14 @@ redirect_from:
 Education
 ======
 * 2007.9 - 2012.6 Ph.D in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
-                  (Co-supervised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/)) 
+&ensp;&ensp;&ensp;(Co-supervised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/)) 
 * 2003.9 - 2007.6 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
 Work experience
 ======
 * 2020.10 - Present Associate Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
 * 2018.11 - 2020.8 Assistant Research Professor, Deptartment of Computer Science, **Johns Hopkins University**.
 * 2016.5 - 2018.10 Visiting Assistant/Associate Professor, Deptartment of Computer Science, **Johns Hopkins University**. <br>
-                   (Hosted by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
+&ensp;&ensp;&ensp;(Hosted by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
 * 2017.3 - 2018.10 Associate Professor, School of Communications and Information Engineering, **Shanghai University**.
 * 2012.10 - 2017.2 Assistant Professor, School of Communications and Information Engineering, **Shanghai University**.
 * 2011.4 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
