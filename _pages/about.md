@@ -10,8 +10,7 @@ redirect_from:
 
 Associate Professor
 
-Artificial Intelligence Institute <br>
-Shanghai Jiao Tong University <br>
+Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai, P. R. China
 
 
