@@ -33,100 +33,100 @@ Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='LightS
 
 ​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
 
-Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
+Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
 
-Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
+Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
 
-Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Robust Face Detection via Learning Small Faces on Hard Images</font>. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020. (PDF)  
+Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Robust Face Detection via Learning Small Faces on Hard Images</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Colorado, USA, 2020. ([PDF](https://arxiv.org/pdf/1811.11662.pdf)) ([CODE](https://github.com/bairdzhang/smallhardface)) 
 
-Yunhan Zhao, Ye Tian, Charless Fowlkes, **Wei Shen**, Alan Yuille. <font color='LightSkyBlue'>Towards Resisting Large Data Variations via Introspective Learning</font>. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020. (PDF)
+Yunhan Zhao, Ye Tian, Charless Fowlkes, **Wei Shen**, Alan Yuille. <font color='LightSkyBlue'>Towards Resisting Large Data Variations via Introspective Learning</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Colorado, USA, 2020. ([PDF](https://arxiv.org/pdf/1805.06447.pdf))
 
-Yuyin Zhou, Yan Wang, Peng Tang, Song Bai, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training</font>. IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA, 2019. (PDF)
+Yuyin Zhou, Yan Wang, Peng Tang, Song Bai, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Hawaii, USA, 2019. ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
 
 ​Siyuan Qiao, **Wei Shen**, Zhishuai Zhang, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Deep Co-Training for Semi-Supervised Image Recognition</font>. 
-European Conference on Computer Vision (ECCV), Munich, Germany, 2018. (PDF)
+**European Conference on Computer Vision (ECCV)**, Munich, Germany, 2018. ([PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siyuan_Qiao_Deep_Co-Training_for_ECCV_2018_paper.pdf))
 
-Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Gradually Updated Neural Networks for Large-Scale Image Recognition</font>. International Conference on Machine Learning (ICML), Stockholm, Sweden, 2018.. (PDF) (CODE)
+Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Gradually Updated Neural Networks for Large-Scale Image Recognition</font>. **International Conference on Machine Learning (ICML)**, Stockholm, Sweden, 2018.. ([PDF](http://proceedings.mlr.press/v80/qiao18b/qiao18b.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/GUNN))
 
-**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Deep Regression Forests for Age Estimation</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018. (PDF) (CODE)
+**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Deep Regression Forests for Age Estimation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Deep_Regression_Forests_CVPR_2018_paper.pdf)) ([CODE](https://github.com/shenwei1231/caffe-DeepRegressionForests))
 
-Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='LightSkyBlue'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 [Spotlight]. (PDF) (CODE)
+Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='LightSkyBlue'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018 $\color{LightCoral}{\text{[Spotlight]}}$. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/FewShot-CVPR))
 
-​Zhishuai Zhang, Siyuan Qiao, Cihang Xie, **Wei Shen**, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Single-Shot Object Detection with Enriched Semantics</font>.  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018. (PDF) (CODE)
+​Zhishuai Zhang, Siyuan Qiao, Cihang Xie, **Wei Shen**, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Single-Shot Object Detection with Enriched Semantics</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF]( https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Object_Detection_CVPR_2018_paper.pdf)) ([CODE](https://github.com/bairdzhang/des))
 
-Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Granada, Spain, 2018 [Oral]. (PDF)
+Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Granada, Spain, 2018 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
 
-​Zhuotun Zhu, Yingda Xia, **Wei Shen**, Elliot K Fishman, Alan Yuille. <font color='LightSkyBlue'>A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation</font>. International Conference on 3D Vision (3DV), Verona, Italy, 2018. (PDF)
+​Zhuotun Zhu, Yingda Xia, **Wei Shen**, Elliot K Fishman, Alan Yuille. <font color='LightSkyBlue'>A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation</font>. **International Conference on 3D Vision (3DV)**, Verona, Italy, 2018. ([PDF](https://arxiv.org/abs/1712.00201))
 
 ​Kai Zhao, **Wei Shen**, Shanghua Gao, Dandan Li, Ming-Ming Cheng. <font color='LightSkyBlue'>Hi-Fi: Hierarchical Feature Integration for Skeleton Detection</font>. ​
-International Joint Conference on Artificial Intelligence (IJCAI), Stockholm, Sweden, 2018. (PDF)
+**International Joint Conference on Artificial Intelligence (IJCAI)**, Stockholm, Sweden, 2018. ([PDF](https://arxiv.org/abs/1801.01849))
 
-**Wei Shen**, Kai Zhao, Yilu Guo, Alan Yuille. <font color='LightSkyBlue'>Label Distribution Learning Forests</font>. Advances in Neural Information Processing Systems (NIPS), Long Beach, USA, 2017. (PDF) (POSTER) (CODE)
+**Wei Shen**, Kai Zhao, Yilu Guo, Alan Yuille. <font color='LightSkyBlue'>Label Distribution Learning Forests</font>. **Advances in Neural Information Processing Systems (NIPS)**, Long Beach, USA, 2017. ([PDF](https://papers.nips.cc/paper/2017/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)) (POSTER) ([CODE](https://github.com/shenwei1231/caffe-LDLForests))
 
-Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**, Andrea Cohen, Sven Dickinson, Yanxi Liu. <font color='LightSkyBlue'>2017 ICCV Challenge: Detecting Symmetry in the Wild</font>. IEEE International Conference on Computer Vision Workshop (ICCVW), Venice, Italy, 2017. (PDF)
+Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**, Andrea Cohen, Sven Dickinson, Yanxi Liu. <font color='LightSkyBlue'>2017 ICCV Challenge: Detecting Symmetry in the Wild</font>. **IEEE International Conference on Computer Vision Workshop (ICCVW)**, Venice, Italy, 2017. ([PDF](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w24/Funk_2017_ICCV_Challenge_ICCV_2017_paper.pdf))
 
-**Wei Shen**, Bin Wang, Yuan Jiang, Yan Wang, Alan Yuille. <font color='LightSkyBlue'>Multi-stage Multi-recursive-input Fully Convolutional Networks for Neuronal Boundary Detection</font>. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017. (PDF) (CODE)
+**Wei Shen**, Bin Wang, Yuan Jiang, Yan Wang, Alan Yuille. <font color='LightSkyBlue'>Multi-stage Multi-recursive-input Fully Convolutional Networks for Neuronal Boundary Detection</font>. **IEEE International Conference on Computer Vision (ICCV)**, Venice, Italy, 2017. ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Multi-Stage_Multi-Recursive-Input_Fully_ICCV_2017_paper.pdf)) (CODE)
 
-​Siyuan Qiao, **Wei Shen**, Weichao Qiu, Chenxi Liu, Alan Yuille. <font color='LightSkyBlue'>ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond</font>. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017. (PDF) (CODE)
+​Siyuan Qiao, **Wei Shen**, Weichao Qiu, Chenxi Liu, Alan Yuille. <font color='LightSkyBlue'>ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond</font>. **IEEE International Conference on Computer Vision (ICCV)**, Venice, Italy, 2017. ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.pdf)) (CODE)
 
-**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='LightSkyBlue'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. IEEE International Conference on Image Processing (ICIP), Beijing, China, 2017 [Oral]. (PDF)
+**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='LightSkyBlue'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](bocf_lp.pdf))
 
-Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Quebec City, Canada, 2017. (PDF)  (CODE)
+Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF]( )) (CODE)
 ​
-**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='LightSkyBlue'>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016.(PDF) (Supplementary Material) (Extended Version on Arxiv)  (CODE) (PR-curve Data) (SK506 Dataset) 
+**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='LightSkyBlue'>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Las Vegas, USA, 2016.(PDF) (Supplementary Material) (Extended Version on Arxiv)  (CODE) (PR-curve Data) (SK506 Dataset) 
 
-Zheng Zhang, Chenquan Zhang, **Wei Shen**, Cong Yao, Wenyu Liu, Xiang Bai. <font color='LightSkyBlue'>Multi-Oriented Text Detection with Fully Convolutional Networks</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. (PDF)
+Zheng Zhang, Chenquan Zhang, **Wei Shen**, Cong Yao, Wenyu Liu, Xiang Bai. <font color='LightSkyBlue'>Multi-Oriented Text Detection with Fully Convolutional Networks</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Las Vegas, USA, 2016. ([PDF]( ))
 
-**Wei Shen**, Xinggang Wang, Yan Wang, Xiang Bai, Zhijiang Zhang. <font color='LightSkyBlue'>DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Boston, USA, 2015. (PDF) (CODE) (Pre-computed Result on BSDS500) (PR-curve Data)
+**Wei Shen**, Xinggang Wang, Yan Wang, Xiang Bai, Zhijiang Zhang. <font color='LightSkyBlue'>DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Boston, USA, 2015. ([PDF]( )) (CODE) (Pre-computed Result on BSDS500) (PR-curve Data)
 
-Zheng Zhang, **Wei Shen**, Cong Yao, Xiang Bai. <font color='LightSkyBlue'>Symmetry-Based Text Line Detection in Natural Scenes</font>. ﻿IEEE Conference on Computer Vision and Pattern Recognition (CVPR)﻿, Boston, USA, 2015. (PDF)
+Zheng Zhang, **Wei Shen**, Cong Yao, Xiang Bai. <font color='LightSkyBlue'>Symmetry-Based Text Line Detection in Natural Scenes</font>. ﻿**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**﻿, Boston, USA, 2015. ([PDF]( ))
 
-Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='LightSkyBlue'>Unusual Event Detection in Crowded Scenes by Trajectory Analysis</font>. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brisbane, Australia, 2015.
+Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='LightSkyBlue'>Unusual Event Detection in Crowded Scenes by Trajectory Analysis</font>. **International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, Brisbane, Australia, 2015.
 
-**Wei Shen**, Rui Lei, Dan Zeng, Zhijiang Zhang. <font color='LightSkyBlue'>Regularity Guaranteed Human Pose Correction</font>. Asian Conference on Computer Vision (ACCV), Singapore, 2014. (PDF)
+**Wei Shen**, Rui Lei, Dan Zeng, Zhijiang Zhang. <font color='LightSkyBlue'>Regularity Guaranteed Human Pose Correction</font>. **Asian Conference on Computer Vision (ACCV)**, Singapore, 2014. ([PDF]( ))
 
-Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. <font color='LightSkyBlue'>Ensemble of Randomized Linear Discri﻿minant Analysis for Face Recognition with Single Sample Per Person</font>. International Conference Automatic Face and Gesture Recognition (FG), Shanghai, China, 2013. (PDF)
+Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. <font color='LightSkyBlue'>Ensemble of Randomized Linear Discri﻿minant Analysis for Face Recognition with Single Sample Per Person</font>. **International Conference Automatic Face and Gesture Recognition (FG)**, Shanghai, China, 2013. ([PDF]( ))
 
-**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='LightSkyBlue'>Exemplar-based Human Action Pose Correction and Tagging</font>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Providence, USA, 2012. (PDF)
+**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='LightSkyBlue'>Exemplar-based Human Action Pose Correction and Tagging</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Providence, USA, 2012. ([PDF]( ))
 
-Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='LightSkyBlue'>Shape Classification Using Tree Unions</font>. International Conference on Pattern Recognition (ICPR), Istanbul, Turkey, 2010. (PDF)
+Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='LightSkyBlue'>Shape Classification Using Tree Unions</font>. **International Conference on Pattern Recognition (ICPR)**, Istanbul, Turkey, 2010. ([PDF]( ))
 
 **Journal**
 ======
-**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Deep Differentiable Random Forests for Age Estimation</font>. IEEE Trans. Pattern Analysis and Machine Intelligence, 2019. (PDF) (CODE)
+**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='LightSkyBlue'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2020. ([PDF]( )) (CODE)
 
-​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. Medical Image Analysis, 2019. (PDF)
+​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='LightSkyBlue'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 2019. ([PDF]( ))
 
-Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='LightSkyBlue'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. IEEE Trans. Pattern Analysis and Machine Intelligence, 2018. (PDF)
+Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='LightSkyBlue'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2018. ([PDF]( ))
 
-​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='LightSkyBlue'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. Pattern Recognition Letters, 106(15): 33–40, 2018. (PDF)
+​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='LightSkyBlue'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF]( ))
 
-Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='LightSkyBlue'>Fast Cascade Face Detection with Pyramid Network</font>. Pattern Recognition Letters, 2018.
+Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='LightSkyBlue'>Fast Cascade Face Detection with Pyramid Network</font>. **Pattern Recognition Letters**, 2018.
 
-**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Xiang Bai, Alan Yuille. <font color='LightSkyBlue'>DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images</font>. IEEE Trans. Image Processing, 26(11): 5298 - 5311, 2017. (PDF) (Project Page)
+**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Xiang Bai, Alan Yuille. <font color='LightSkyBlue'>DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images</font>. **IEEE Trans. Image Processing**, 26(11): 5298 - 5311, 2017. ([PDF]( )) (Project Page)
 
-Dan Zeng​, Ting Zhang, Rui Fang, **Wei Shen**, Qi Tian. <font color='LightSkyBlue'>Neighborhood Geometry Based Feature Matching for Geostationary Satellite Remote Sensing Image</font>. Neurocomputing, 236: 65-72, 2017. (PDF)
+Dan Zeng​, Ting Zhang, Rui Fang, **Wei Shen**, Qi Tian. <font color='LightSkyBlue'>Neighborhood Geometry Based Feature Matching for Geostationary Satellite Remote Sensing Image</font>. **Neurocomputing**, 236: 65-72, 2017. ([PDF]( ))
 
-**Wei Shen**, Xiang Bai, Zihao Hu, Zhijiang Zhang. <font color='LightSkyBlue'>Multiple Instance Subspace Learning via Partial Random Projection Tree for Local Reflection Symmetry in Natural Images</font>. Pattern Recognition, 52(4): 306-316, 2016. (PDF) ﻿﻿﻿(PR-curve Data)﻿﻿﻿ ﻿(WH-SYMMAX dataset)﻿
+**Wei Shen**, Xiang Bai, Zihao Hu, Zhijiang Zhang. <font color='LightSkyBlue'>Multiple Instance Subspace Learning via Partial Random Projection Tree for Local Reflection Symmetry in Natural Images</font>. **Pattern Recognition**, 52(4): 306-316, 2016. ([PDF]( )) ﻿﻿﻿(PR-curve Data)﻿﻿﻿ ﻿(WH-SYMMAX dataset)﻿
 
-**Wei Shen**, Yuan Jiang, Wenjing Gao, Dan Zeng, Xinggang Wang. <font color='LightSkyBlue'>Shape Recognition by Bag of Skeleton-associated Contour Parts</font>. Pattern Recognition Letters, 83: 321-329, 2016. (PDF) (CODE)
+**Wei Shen**, Yuan Jiang, Wenjing Gao, Dan Zeng, Xinggang Wang. <font color='LightSkyBlue'>Shape Recognition by Bag of Skeleton-associated Contour Parts</font>. **Pattern Recognition Letters**, 83: 321-329, 2016. ([PDF]( )) (CODE)
 
-**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='LightSkyBlue'>Exemplar-based Human Action Pose Correction</font>. IEEE Trans. Cybernetics, 44(7﻿): 1053-1066, 2014. (PDF)
+**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='LightSkyBlue'>Exemplar-based Human Action Pose Correction</font>. **IEEE Trans. Cybernetics**, 44(7﻿): 1053-1066, 2014. ([PDF]( ))
 
-**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='LightSkyBlue'>Shape Clustering: Common Structure Discovery</font>. Pattern Recognition 46(2): 539-550, 2013. (PDF) (CODE)
+**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='LightSkyBlue'>Shape Clustering: Common Structure Discovery</font>. **Pattern Recognition**, 46(2): 539-550, 2013. ([PDF]( )) (CODE)
 
-**Wei Shen**, Bo Wang, Yueming Wang, Xiang Bai, Longin Jan Latecki. <font color='LightSkyBlue'>Face Identification Using Reference-based Features with Message Passing Model</font>. Neurocomputing, 99: 339-346, 2013. (PDF)
+**Wei Shen**, Bo Wang, Yueming Wang, Xiang Bai, Longin Jan Latecki. <font color='LightSkyBlue'>Face Identification Using Reference-based Features with Message Passing Model</font>. **Neurocomputing**, 99: 339-346, 2013. ([PDF]( ))
 
-**Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='LightSkyBlue'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. SCIENCE CHINA Information Sciences, 56(4): 1-14, 2013. (PDF) (CODE)
+**Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='LightSkyBlue'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1-14, 2013. ([PDF]( )) (CODE)
 
-**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='LightSkyBlue'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. Pattern Recognition 44(2): 196-209, 2011. (PDF) (CODE)
+**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='LightSkyBlue'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. **Pattern Recognition**, 44(2): 196-209, 2011. ([PDF]( )) (CODE)
 
-Rong Hu, **Wei Shen**, Hongyuan Wang. <font color='LightSkyBlue'>Recursive Spatiotemporal Subspace Learning for Gait Recognition</font>. Neurocomputing, 73(10-12): 1892-1899, 2010.
+Rong Hu, **Wei Shen**, Hongyuan Wang. <font color='LightSkyBlue'>Recursive Spatiotemporal Subspace Learning for Gait Recognition</font>. **Neurocomputing**, 73(10-12): 1892-1899, 2010.
 
 **Book Chapter**
 ======
-**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='LightSkyBlue'>Skeletonization in Natural Images and Its Application to Object Recognition</font>, in "Skeletonization: Theory, Methods, and Applications", Punam Saha, Gunilla Borgefors, Gabriella Sanniti di Baja (Ed.), Academic Press, 2017. ISBN: 978-0-081-01291-8.
+**Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='LightSkyBlue'>Skeletonization in Natural Images and Its Application to Object Recognition</font>, in "**Skeletonization: Theory, Methods, and Applications**", Punam Saha, Gunilla Borgefors, Gabriella Sanniti di Baja (Ed.), Academic Press, 2017. ISBN: 978-0-081-01291-8.
 
-Yuyin Zhou, Qihang Yu, Yan Wang, Lingxi Xie, **Wei Shen**, Elliot K.Fishman, Alan Yuille. <font color='LightSkyBlue'>2D-Based Coarse-to-Fine Approaches for Small Target Segmentation in Abdominal CT Scans</font>, in "Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
+Yuyin Zhou, Qihang Yu, Yan Wang, Lingxi Xie, **Wei Shen**, Elliot K.Fishman, Alan Yuille. <font color='LightSkyBlue'>2D-Based Coarse-to-Fine Approaches for Small Target Segmentation in Abdominal CT Scans</font>, in "**Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics**", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
 
-Yingwei Li, Zhuotun Zhu, Yuyin Zhou, Yingda Xia, **Wei Shen**, Elliot K.Fishman, Alan Yuille. <font color='LightSkyBlue'>Volumetric Medical Image Segmentation: A 3D Deep Coarse-to-Fine Framework and Its Adversarial Examples</font>, ​in "Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
+Yingwei Li, Zhuotun Zhu, Yuyin Zhou, Yingda Xia, **Wei Shen**, Elliot K.Fishman, Alan Yuille. <font color='LightSkyBlue'>Volumetric Medical Image Segmentation: A 3D Deep Coarse-to-Fine Framework and Its Adversarial Examples</font>, ​in "**Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics**", Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang (Ed.), Springer, 2019.ISBN 978-3-030-13969-8.
