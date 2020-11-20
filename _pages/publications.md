@@ -99,7 +99,7 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2018. ([PDF](https://arxiv.org/abs/1807.03342))
 
-​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp/pdf))
+​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp.pdf))
 
 Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='Navy'>Fast Cascade Face Detection with Pyramid Network</font>. **Pattern Recognition Letters**, 2018. ([PDF](../files/FastCascadeFaceDet.pdf))
 
@@ -113,9 +113,9 @@ Dan Zeng​, Ting Zhang, Rui Fang, **Wei Shen**, Qi Tian. <font color='Navy'>Nei
 
 **Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='Navy'>Exemplar-based Human Action Pose Correction</font>. **IEEE Trans. Cybernetics**, 44(7﻿): 1053-1066, 2014. ([PDF](../files/posecorrection.pdf))
 
-**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Shape Clustering: Common Structure Discovery</font>. **Pattern Recognition**, 46(2): 539-550, 2013. ([PDF](../files/shape_clustering_common_structure_discovery/pdf)) ([CODE](../files/shape_clustering_cs.zip))
+**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Shape Clustering: Common Structure Discovery</font>. **Pattern Recognition**, 46(2): 539-550, 2013. ([PDF](../files/shape_clustering_common_structure_discovery.pdf)) ([CODE](../files/shape_clustering_cs.zip))
 
-**Wei Shen**, Bo Wang, Yueming Wang, Xiang Bai, Longin Jan Latecki. <font color='Navy'>Face Identification Using Reference-based Features with Message Passing Model</font>. **Neurocomputing**, 99: 339-346, 2013. ([PDF](../files/face_identification_using_reference-based_features_with_message_passing_model/pdf))
+**Wei Shen**, Bo Wang, Yueming Wang, Xiang Bai, Longin Jan Latecki. <font color='Navy'>Face Identification Using Reference-based Features with Message Passing Model</font>. **Neurocomputing**, 99: 339-346, 2013. ([PDF](../files/face_identification_using_reference-based_features_with_message_passing_model.pdf))
 
 **Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='Navy'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1-14, 2013. ([PDF](../files/skeleton_pruning_as_trade-off_between_skeleton_simplicity_and_reconstruction_error.pdf))
 ([CODE](../files/skelpruningtradeoff.zip))
