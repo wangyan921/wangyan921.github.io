@@ -17,17 +17,17 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 **Preprints**
 ======
 
-Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. $\color{Gray}{CO2: Consistent Contrast for Unsupervised Visual Representation Learning}$. **arXiv: 2010.02217**. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
+Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. $\color{Gray}{\text{CO2: Consistent Contrast for Unsupervised Visual Representation Learning}}$. **arXiv: 2010.02217**. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
 
-Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. Shape-Texture Debiased Neural Network Training. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. $\color{Gray}{Shape-Texture Debiased Neural Network Training)$. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
 
-Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. Deeply Shape-guided Instance Segmentation. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
+Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. $\color{Gray}{Deeply Shape-guided Instance Segmentation)$. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
-Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. Micro-Batch Training with Batch-Channel Normalization and Weight Standardization. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
+Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. $\color{Gray}{Micro-Batch Training with Batch-Channel Normalization and Weight Standardization)$. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
-Daniil Pakhomov, **Wei Shen**, Nassir Navab. **Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
+Daniil Pakhomov, **Wei Shen**, Nassir Navab. $\color{Gray}{Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks)$. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
 Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. **Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**. European Conference on Computer Vision (ECCV), Glasgow, UK, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) (CODE)
 
