@@ -13,6 +13,7 @@ Education
 * 2007.9 - 2012.6 Ph.D in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
 &ensp;&ensp;&ensp;(Co-supervised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/)) 
 * 2003.9 - 2007.6 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
+
 Work experience
 ======
 * 2020.10 - Present Associate Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
@@ -22,6 +23,7 @@ Work experience
 * 2017.3 - 2018.10 Associate Professor, School of Communications and Information Engineering, **Shanghai University**.
 * 2012.10 - 2017.2 Assistant Professor, School of Communications and Information Engineering, **Shanghai University**.
 * 2011.4 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
+
 Grants
 ======
 * 2017.1 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​
