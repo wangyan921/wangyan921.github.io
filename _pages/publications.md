@@ -35,7 +35,7 @@ Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>
 
 Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
 
-Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
+Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
 
 Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. <font color='Navy'>Robust Face Detection via Learning Small Faces on Hard Images</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Colorado, USA, 2020. ([PDF](https://arxiv.org/pdf/1811.11662.pdf)) ([CODE](https://github.com/bairdzhang/smallhardface)) 
 
@@ -50,11 +50,11 @@ Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Na
 
 **Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Regression Forests for Age Estimation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Deep_Regression_Forests_CVPR_2018_paper.pdf)) ([CODE](https://github.com/shenwei1231/caffe-DeepRegressionForests))
 
-Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018 $\color{LightCoral}{\text{[Spotlight]}}$. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/FewShot-CVPR))
+Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018 <span style="color:LightCoral;">[Spotlight]</span>. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/FewShot-CVPR))
 
 ​Zhishuai Zhang, Siyuan Qiao, Cihang Xie, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Navy'>Single-Shot Object Detection with Enriched Semantics</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF]( https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Object_Detection_CVPR_2018_paper.pdf)) ([CODE](https://github.com/bairdzhang/des))
 
-Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Granada, Spain, 2018 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
+Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Granada, Spain, 2018 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
 
 ​Zhuotun Zhu, Yingda Xia, **Wei Shen**, Elliot K Fishman, Alan Yuille. <font color='Navy'>A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation</font>. **International Conference on 3D Vision (3DV)**, Verona, Italy, 2018. ([PDF](https://arxiv.org/abs/1712.00201))
 
@@ -69,7 +69,7 @@ Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**,
 
 ​Siyuan Qiao, **Wei Shen**, Weichao Qiu, Chenxi Liu, Alan Yuille. <font color='Navy'>ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond</font>. **IEEE International Conference on Computer Vision (ICCV)**, Venice, Italy, 2017. ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/ScaleNet))
 
-**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='Navy'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](../files/bocf_lp.pdf))
+**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='Navy'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 <span style="color:LightCoral;">[Oral]</span>. ([PDF](../files/bocf_lp.pdf))
 
 Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) <br>
 ​
