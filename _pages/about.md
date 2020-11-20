@@ -13,14 +13,15 @@ Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai 200240 China
 
 
-<font color=LightCoral>I'm looking for self-motivated students working with me on Computer Vision and Medical Image Analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</font>
+<font color=LightCoral>I'm looking for self-motivated students working with me on computer vision and medical image analysis for the fall of 2021. For prospective students, please send me an email with your CV and transcript.</font>
 
 
 
 
 **Research Interests**
 ======
-Computer Vision, Pattern Recognition, Machine Learning, Medical Image Analysis
+My research interests lie in the fields of computer vision, machine learning, deep learning, and medical image analysis, particularly in shape based object representation and detection, deep learning algorithms under various learning paradigms and their application to medical image analysis. 
+
 
 
 **Recent News**
