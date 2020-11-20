@@ -69,7 +69,7 @@ Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**,
 
 ​Siyuan Qiao, **Wei Shen**, Weichao Qiu, Chenxi Liu, Alan Yuille. <font color='LightSkyBlue'>ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond</font>. **IEEE International Conference on Computer Vision (ICCV)**, Venice, Italy, 2017. ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.pdf)) (CODE)
 
-**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='LightSkyBlue'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](bocf_lp.pdf))
+**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='LightSkyBlue'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](../files/bocf_lp.pdf))
 
 Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='LightSkyBlue'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF]( )) (CODE)
 ​
