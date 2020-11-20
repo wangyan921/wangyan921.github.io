@@ -19,11 +19,11 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Gray'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **arXiv: 2010.02217**. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
 
-Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. $\color{Gray}{Shape-Texture Debiased Neural Network Training)$. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='LightSlateBlue'>Shape-Texture Debiased Neural Network Training)</font>. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
 
-Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. $\color{Gray}{Deeply Shape-guided Instance Segmentation)$. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
+Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. <font color='LightSteelBlue'>Deeply Shape-guided Instance Segmentation)</font>. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
-Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. $\color{Gray}{Micro-Batch Training with Batch-Channel Normalization and Weight Standardization)$. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
+Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='LightSkyBlue'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization)</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
@@ -31,11 +31,11 @@ Daniil Pakhomov, **Wei Shen**, Nassir Navab. $\color{Gray}{Towards Unsupervised 
 
 Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation. **European Conference on Computer Vision (ECCV)**, Glasgow, UK, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) (CODE)
 
-​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. **Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble**. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. (PDF)
+​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
 
-Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation**. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. (PDF)
+Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation**. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
 
-Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Deep Distance Transform for Tubular Structure Segmentation in CT Scans**. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2020 [Oral]. (PDF)
+Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. **Deep Distance Transform for Tubular Structure Segmentation in CT Scans**. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2020 $\color{LightCoral}{\text{[Oral]}}$. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
 
 Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. Robust Face Detection via Learning Small Faces on Hard Images. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020. (PDF)  
 
