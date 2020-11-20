@@ -120,7 +120,7 @@ Dan Zeng​, Ting Zhang, Rui Fang, **Wei Shen**, Qi Tian. <font color='Navy'>Nei
 **Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='Navy'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1-14, 2013. ([PDF](../files/skeleton_pruning_as_trade-off_between_skeleton_simplicity_and_reconstruction_error.pdf))
 ([CODE](../files/skelpruningtradeoff.zip))
 
-**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. **Pattern Recognition**, 44(2): 196-209, 2011. ([PDF](../files/skeleton_growing_and_pruning_with_bending_potential_ratio.pdf.pdf))  ([CODE](../files/shenskeletonpruningbpr.zip))
+**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. **Pattern Recognition**, 44(2): 196-209, 2011. ([PDF](../files/skeleton_growing_and_pruning_with_bending_potential_ratio.pdf))  ([CODE](../files/shenskeletonpruningbpr.zip))
 
 Rong Hu, **Wei Shen**, Hongyuan Wang. <font color='Navy'>Recursive Spatiotemporal Subspace Learning for Gait Recognition</font>. **Neurocomputing**, 73(10-12): 1892-1899, 2010.
 
