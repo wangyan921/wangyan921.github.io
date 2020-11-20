@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Associate Professor
+Associate Professor <br>
 Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai, P. R. China
 
