@@ -71,8 +71,9 @@ Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**,
 
 **Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='Navy'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 <span style="color:LightCoral;">[Oral]</span>. ([PDF](../files/bocf_lp.pdf))
 
-Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) <br>
-​
+Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) 
+​<br><br>
+
 **Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='Navy'>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Las Vegas, USA, 2016.([PDF](../files/deepskeleton_final.pdf)) ([Supplementary Material](../files/supplementarymaterial_final.pdf)) ([CODE](https://github.com/zeakey/DeepSkeleton)) ([PR-curve Data](../files/pr-curve.zip)) ([SK-SMALL Dataset](../files/sk506.zip)) 
 
 Zheng Zhang, Chenquan Zhang, **Wei Shen**, Cong Yao, Wenyu Liu, Xiang Bai. <font color='Navy'>Multi-Oriented Text Detection with Fully Convolutional Networks</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Las Vegas, USA, 2016. ([PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf))
