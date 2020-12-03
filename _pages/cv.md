@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* 2007.9 - 2012.6 Ph.D in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
+* 2007.09 - 2012.06 Ph.D in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
 &ensp;&ensp;&ensp;(Co-supervised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/)) 
-* 2003.9 - 2007.6 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
+* 2003.09 - 2007.06 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
 
 Work experience
 ======
@@ -41,6 +41,7 @@ Academic Service
     * IEEE Transactions on Image Processing
 	* IEEE Transactions on Medical Imaging
 	* IEEE Transactions on Cybernetics
+	
 	​* IEEE Transactions on Circuits and Systems for Video Technology
     * IEEE Transactions on Information Forensics and Security
 	* International Journal of Computer Vision
