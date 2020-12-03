@@ -17,20 +17,20 @@ Education
 Work experience
 ======
 * 2020.10 - Present Associate Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
-* 2018.11 - 2020.8 Assistant Research Professor, Deptartment of Computer Science, **Johns Hopkins University**.
-* 2016.5 - 2018.10 Visiting Assistant/Associate Professor, Deptartment of Computer Science, **Johns Hopkins University**. <br>
+* 2018.11 - 2020.08 Assistant Research Professor, Deptartment of Computer Science, **Johns Hopkins University**.
+* 2016.05 - 2018.10 Visiting Assistant/Associate Professor, Deptartment of Computer Science, **Johns Hopkins University**. <br>
 &ensp;&ensp;&ensp;(Hosted by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
-* 2017.3 - 2018.10 Associate Professor, School of Communications and Information Engineering, **Shanghai University**.
-* 2012.10 - 2017.2 Assistant Professor, School of Communications and Information Engineering, **Shanghai University**.
-* 2011.4 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
+* 2017.03 - 2018.10 Associate Professor, School of Communications and Information Engineering, **Shanghai University**.
+* 2012.10 - 2017.02 Assistant Professor, School of Communications and Information Engineering, **Shanghai University**.
+* 2011.04 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
 
 Grants
 ======
-* 2017.1 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​
-* 2016.1 - 2018.12       Contour detection by deep convolutional neural networks, **"Chen Guang" project supported by Shanghai Municipal Education Commission and Shanghai         Education Development Foundation** No. 15CG43​
-* 2014.1 - 2016.12       Symmetry based object localization in natural images, **Research Fund for the Doctoral Program of Higher Education of China** No. 20133108120017
-* 2014.1 - 2015.12       Symmetry based object representation and recognition in natural images, **Innovation Program of Shanghai Municipal Education Commission** No. 14YZ018
-* 2014.1 - 2016.12       Research on skeleton extraction and object recognition in natural images by supervised learning, **National Natural Science Foundation of China** No. 61303095
+* 2017.01 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​
+* 2016.01 - 2018.12       Contour detection by deep convolutional neural networks, **"Chen Guang" project supported by Shanghai Municipal Education Commission and Shanghai         Education Development Foundation** No. 15CG43​
+* 2014.01 - 2016.12       Symmetry based object localization in natural images, **Research Fund for the Doctoral Program of Higher Education of China** No. 20133108120017
+* 2014.01 - 2015.12       Symmetry based object representation and recognition in natural images, **Innovation Program of Shanghai Municipal Education Commission** No. 14YZ018
+* 2014.01 - 2016.12       Research on skeleton extraction and object recognition in natural images by supervised learning, **National Natural Science Foundation of China** No. 61303095
 
 Academic Service
 ======
@@ -41,7 +41,7 @@ Academic Service
     * IEEE Transactions on Image Processing
 	* IEEE Transactions on Medical Imaging
 	* IEEE Transactions on Cybernetics
-​    * IEEE Transactions on Circuits and Systems for Video Technology
+	​* IEEE Transactions on Circuits and Systems for Video Technology
     * IEEE Transactions on Information Forensics and Security
 	* International Journal of Computer Vision
     * Medical Image Analysis
