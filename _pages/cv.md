@@ -41,9 +41,8 @@ Academic Service
     * IEEE Transactions on Image Processing
 	* IEEE Transactions on Medical Imaging
 	* IEEE Transactions on Cybernetics
-	
-	​* IEEE Transactions on Circuits and Systems for Video Technology
     * IEEE Transactions on Information Forensics and Security
+	* IEEE Transactions on Circuits and Systems for Video Technology
 	* International Journal of Computer Vision
     * Medical Image Analysis
 	* Pattern Recognition
