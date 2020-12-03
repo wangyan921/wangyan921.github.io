@@ -21,6 +21,8 @@ Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consist
 
 Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training)</font>. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
 
+Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **arXiv: 2011.14150**. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
+
 Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Instance Segmentation)</font>. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization)</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
