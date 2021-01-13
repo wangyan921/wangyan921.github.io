@@ -17,10 +17,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 **Preprints**
 ======
 
-Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **arXiv: 2010.02217**. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
-
-Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training</font>. **arXiv: 2010.05981**. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
-
 Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **arXiv: 2011.14150**. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
 Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for High Quality Instance Segmentation</font>. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
@@ -29,6 +25,10 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
+Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
+
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
+
 Daniil Pakhomov, **Wei Shen**, Nassir Navab. <font color='Navy'>Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks</font>. **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
 Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Glasgow, UK, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) ([CODE](https://github.com/YingdaXia/SynthCP))

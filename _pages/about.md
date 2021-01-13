@@ -26,6 +26,9 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Two papers have been accepted to ICLR 2021.
+>* [CO2: Consistent Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2010.02217.pdf)
+>* [Shape-Texture Debiased Neural Network Training](https://arxiv.org/pdf/2010.05981.pdf)
 - One paper has been accepted to IROS 2020.
 >* [Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/2007.04505.pdf)
 - One paper has been accepted to ECCV 2020 as oral.
