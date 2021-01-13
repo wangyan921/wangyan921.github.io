@@ -100,7 +100,7 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 ​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
 
-Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2018. ([PDF](https://arxiv.org/abs/1807.03342))
+Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 42(1), 176-191, 2020. ([PDF](https://arxiv.org/abs/1807.03342))
 
 ​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp.pdf))
 
