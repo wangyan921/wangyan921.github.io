@@ -96,7 +96,7 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
-**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2020. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
+**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404-419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
 
 ​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
 
