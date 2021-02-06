@@ -98,15 +98,16 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 ======
 **Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404-419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
 
+Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 42(1), 176-191, 2020. ([PDF](https://arxiv.org/abs/1807.03342))
+
 ​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 55: 88-102, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
 
 Dan Zeng, Han Liu, Fan Zhao, Shiming Ge, **Wei Shen**, Zhijiang Zhang. <font color='Navy'>Proposal pyramid networks for fast face detection</font>. **Information Sciences**, 495: 136-149, 2019. ([PDF](../files/FastFaceDet.pdf))
 
-Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 42(1), 176-191, 2020. ([PDF](https://arxiv.org/abs/1807.03342))
+Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='Navy'>Fast Cascade Face Detection with Pyramid Network</font>. **Pattern Recognition Letters**, 119: 180-186, 2019. ([PDF](../files/FastCascadeFaceDet.pdf))
 
 ​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp.pdf))
 
-Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='Navy'>Fast Cascade Face Detection with Pyramid Network</font>. **Pattern Recognition Letters**, 2018. ([PDF](../files/FastCascadeFaceDet.pdf))
 
 **Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Xiang Bai, Alan Yuille. <font color='Navy'>DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images</font>. **IEEE Trans. Image Processing**, 26(11): 5298 - 5311, 2017. ([PDF](http://arxiv.org/abs/1609.03659)) ([Project Page](http://kaiz.xyz/deepsk)) ([CODE](https://github.com/zeakey/skeleton)) ([SK-LARGE Dataset](../files/sk1491.tar))
 
