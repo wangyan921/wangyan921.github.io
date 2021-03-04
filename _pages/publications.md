@@ -19,12 +19,14 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **arXiv: 2011.14150**. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
-Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for High Quality Instance Segmentation</font>. **arXiv: 1911.11263**.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Hao Ding, SIyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for Instance Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
+
+Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ 
+
 Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
 
 Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))

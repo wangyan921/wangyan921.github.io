@@ -26,6 +26,9 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Two papers have been accepted to CVPR 2021.
+>* [Deeply Shape-guided Cascade for Instance Segmentation](https://arxiv.org/pdf/1911.11263.pdf)
+>* [Dual Attention Guided Gaze Target Detection in the Wild]
 - One paper has been accepted to TMI.
 >* [Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction](../files/IAG-NET-online.pdf)
 - Two papers have been accepted to ICLR 2021.
