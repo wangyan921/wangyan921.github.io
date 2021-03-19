@@ -27,9 +27,9 @@ Hao Ding, Siyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shap
 
 Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021 <span style="color:LightCoral;">[Oral]</span>.​ 
 
-Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://arxiv.org/pdf/2010.02217.pdf))
+Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://openreview.net/pdf?id=U4XLJhqwNF1))
 
-Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://arxiv.org/pdf/2010.05981.pdf))
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yuille, Cihang Xie. <font color='Navy'>Shape-Texture Debiased Neural Network Training</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://openreview.net/pdf?id=Db4yerZTYkz))
 
 Daniil Pakhomov, **Wei Shen**, Nassir Navab. <font color='Navy'>Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks</font>. **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
