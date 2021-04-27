@@ -106,8 +106,6 @@ Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yui
 
 ​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 55: 88-102, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
 
-Dan Zeng, Han Liu, Fan Zhao, Shiming Ge, **Wei Shen**, Zhijiang Zhang. <font color='Navy'>Proposal pyramid networks for fast face detection</font>. **Information Sciences**, 495: 136-149, 2019. ([PDF](../files/FastFaceDet.pdf))
-
 Dan Zeng, Fan Zhao, Shiming Ge, **Wei Shen**. <font color='Navy'>Fast Cascade Face Detection with Pyramid Network</font>. **Pattern Recognition Letters**, 119: 180-186, 2019. ([PDF](../files/FastCascadeFaceDet.pdf))
 
 ​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp.pdf))
