@@ -26,6 +26,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- I will serve as an Area Chair for CVPR 2022.
 - Two papers have been accepted to CVPR 2021, where one is oral.
 >* [Deeply Shape-guided Cascade for Instance Segmentation](https://arxiv.org/pdf/1911.11263.pdf)
 >* [Dual Attention Guided Gaze Target Detection in the Wild]()
