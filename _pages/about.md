@@ -35,15 +35,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 - Two papers have been accepted to ICLR 2021.
 >* [CO2: Consistent Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2010.02217.pdf)
 >* [Shape-Texture Debiased Neural Network Training](https://arxiv.org/pdf/2010.05981.pdf)
-- One paper has been accepted to IROS 2020.
->* [Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/2007.04505.pdf)
-- One paper has been accepted to ECCV 2020 as oral.
->* [Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation](https://arxiv.org/pdf/2003.08440.pdf)
-- One paper has been accepted to CVPR 2020 as oral
->* [Deep Distance Transform for Tubular Structure Segmentation in CT Scans](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf)
-- Two papers have been accepted to MICCAI 2020
->* [Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble](https://arxiv.org/pdf/2003.08441.pdf)
->* [Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation](https://arxiv.org/pdf/2005.09120.pdf)
+
 
 **Short Bio**
 ======
