@@ -27,7 +27,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
-Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking here or there? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021.
+Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking Here or There? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021.
 
 Hao Ding, Siyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for Instance Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
