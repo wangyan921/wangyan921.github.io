@@ -27,9 +27,11 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
+Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking here or there? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021.
+
 Hao Ding, Siyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for Instance Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
-Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021 <span style="color:LightCoral;">[Oral]</span>.​ 
+Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021 <span style="color:LightCoral;">[Oral]</span>.​ （[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)）
 
 Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://openreview.net/pdf?id=U4XLJhqwNF1))
 
