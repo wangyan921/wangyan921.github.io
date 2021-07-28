@@ -26,6 +26,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- I will serve as a Senior Program Committee (SPC) Member for AAAI 2022.
 - I will serve as an Area Chair for CVPR 2022.
 - One paper has been accepted to ICCV 2021.
 >* [Looking Here or There? Gaze Following in 360-Degree Images]()
