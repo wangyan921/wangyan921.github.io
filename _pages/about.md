@@ -26,13 +26,15 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- One paper has been accepted to NeurIPS 2021.
+>* [Glance-and-Gaze Vision Transformer](https://arxiv.org/pdf/2106.02277.pdf)
 - I will serve as a Senior Program Committee (SPC) Member for AAAI 2022.
 - I will serve as an Area Chair for CVPR 2022.
 - One paper has been accepted to ICCV 2021.
 >* [Looking Here or There? Gaze Following in 360-Degree Images]()
 - Two papers have been accepted to CVPR 2021, where one is oral.
 >* [Deeply Shape-guided Cascade for Instance Segmentation](https://arxiv.org/pdf/1911.11263.pdf)
->* [Dual Attention Guided Gaze Target Detection in the Wild]()
+>* [Dual Attention Guided Gaze Target Detection in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)
 - One paper has been accepted to TMI.
 >* [Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction](../files/IAG-NET-online.pdf)
 - Two papers have been accepted to ICLR 2021.
