@@ -31,7 +31,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 - I will serve as a Senior Program Committee (SPC) Member for AAAI 2022.
 - I will serve as an Area Chair for CVPR 2022.
 - One paper has been accepted to ICCV 2021.
->* [Looking Here or There? Gaze Following in 360-Degree Images]()
+>* [Looking Here or There? Gaze Following in 360-Degree Images](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf)
 - Two papers have been accepted to CVPR 2021, where one is oral.
 >* [Deeply Shape-guided Cascade for Instance Segmentation](https://arxiv.org/pdf/1911.11263.pdf)
 >* [Dual Attention Guided Gaze Target Detection in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)

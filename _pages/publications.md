@@ -27,7 +27,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, **Wei Shen**. <font color='Navy'>Glance-and-Gaze Vision Transformer</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Online, 2021. ([PDF](https://arxiv.org/pdf/2106.02277.pdf))
 
-Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking Here or There? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021.
+Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking Here or There? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021. ([PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf))
 
 Hao Ding, Siyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for Instance Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf))
 
