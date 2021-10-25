@@ -25,7 +25,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
-Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, **Wei Shen**. <font color='Navy'>Glance-and-Gaze Vision Transformer</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Online, 2021. ([PDF](https://arxiv.org/pdf/2106.02277.pdf))
+Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, **Wei Shen**. <font color='Navy'>Glance-and-Gaze Vision Transformer</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2021. ([PDF](https://arxiv.org/pdf/2106.02277.pdf))
 
 Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking Here or There? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021. ([PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf))
 
@@ -41,9 +41,9 @@ Daniil Pakhomov, **Wei Shen**, Nassir Navab. <font color='Navy'>Towards Unsuperv
 
 Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Glasgow, UK, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) ([CODE](https://github.com/YingdaXia/SynthCP))
 
-​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. <font color='Navy'>Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
+​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. <font color='Navy'>Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima, Peru, 2020. ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
 
-Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
+Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima, Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
 
 Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
 
