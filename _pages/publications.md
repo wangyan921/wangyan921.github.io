@@ -17,6 +17,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 **Preprints**
 ======
 
+Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
+
 Yilin Wang, Shaozuo Yu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning</font>. **arXiv: 2106.02824**. ([PDF](https://arxiv.org/abs/2106.02824))
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **arXiv: 2011.14150**. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
