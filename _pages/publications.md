@@ -16,8 +16,12 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Jiazhong Cen, Zenkun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
+A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
-Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
+Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **arXiv:2111.15463**. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
+
+Xintian Mao, Yiming Liu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>Deep Residual Fourier Transformation for Single Image Deblurring</font>. **arXiv:2111.11745**. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
 
 Yilin Wang, Shaozuo Yu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning</font>. **arXiv: 2106.02824**. ([PDF](https://arxiv.org/abs/2106.02824))
 
