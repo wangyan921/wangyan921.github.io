@@ -26,13 +26,13 @@ Work experience
 
 Grants
 ======
-* 2022.01 - 2025.12       Deep Sequential Decision Trees with Applications to Visual Recognition, **National Natural Science Foundation of China** No. 62176159​
-* 2021.07 - 2024.06		  Deep Differentiable Random Forests with Applications to Visual Recognition, **Natural Science Foundation of Shanghai** No. 21ZR1432200
-* 2017.01 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​
-* 2016.01 - 2018.12       Contour detection by deep convolutional neural networks, **"Chen Guang" project supported by Shanghai Municipal Education Commission and Shanghai         Education Development Foundation** No. 15CG43​
-* 2014.01 - 2016.12       Symmetry based object localization in natural images, **Research Fund for the Doctoral Program of Higher Education of China** No. 20133108120017
-* 2014.01 - 2015.12       Symmetry based object representation and recognition in natural images, **Innovation Program of Shanghai Municipal Education Commission** No. 14YZ018
-* 2014.01 - 2016.12       Research on skeleton extraction and object recognition in natural images by supervised learning, **National Natural Science Foundation of China** No. 61303095
+* 2022.01 - 2025.12       Deep Sequential Decision Trees with Applications to Visual Recognition, **National Natural Science Foundation of China** No. 62176159​ **(PI)**
+* 2021.07 - 2024.06		  Deep Differentiable Random Forests with Applications to Visual Recognition, **Natural Science Foundation of Shanghai** No. 21ZR1432200 **(PI)**
+* 2017.01 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​ **(PI)**
+* 2016.01 - 2018.12       Contour detection by deep convolutional neural networks, **"Chen Guang" project supported by Shanghai Municipal Education Commission and Shanghai         Education Development Foundation** No. 15CG43​ **(PI)**
+* 2014.01 - 2016.12       Symmetry based object localization in natural images, **Research Fund for the Doctoral Program of Higher Education of China** No. 20133108120017 **(PI)**
+* 2014.01 - 2015.12       Symmetry based object representation and recognition in natural images, **Innovation Program of Shanghai Municipal Education Commission** No. 14YZ018 **(PI)**
+* 2014.01 - 2016.12       Research on skeleton extraction and object recognition in natural images by supervised learning, **National Natural Science Foundation of China** No. 61303095 **(PI)**
 
 Academic Service
 ======
