@@ -110,7 +110,9 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
-Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan L. Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2), 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
+Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 2022. ([PDF](../files/External_Attention.pdf))
+
+Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2), 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
 
 **Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404-419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
 
