@@ -26,6 +26,8 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- One paper has been accepted to ICLR 2022.
+>* [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/pdf/2111.07832.pdf)
 - One paper has been accepted to NeurIPS 2021.
 >* [Glance-and-Gaze Vision Transformer](https://arxiv.org/pdf/2106.02277.pdf)
 - I will serve as a Senior Program Committee (SPC) Member for AAAI 2022.

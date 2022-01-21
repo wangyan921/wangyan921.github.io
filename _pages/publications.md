@@ -19,8 +19,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
-Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **arXiv:2111.15463**. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
-
 Xintian Mao, Yiming Liu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>Deep Residual Fourier Transformation for Single Image Deblurring</font>. **arXiv:2111.11745**. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
 
 Yilin Wang, Shaozuo Yu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning</font>. **arXiv: 2106.02824**. ([PDF](https://arxiv.org/abs/2106.02824))
@@ -31,6 +29,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
+Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. ICLR, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
+
 Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, **Wei Shen**. <font color='Navy'>Glance-and-Gaze Vision Transformer</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2021. ([PDF](https://proceedings.neurips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf))
 
 Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. <font color='Navy'>Looking Here or There? Gaze Following in 360-Degree Images</font>. **IEEE International Conference on Computer Vision (ICCV)**, Montreal, Canada, 2021. ([PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf))
