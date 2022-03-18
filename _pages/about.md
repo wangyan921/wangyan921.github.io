@@ -26,6 +26,8 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- I will serve as an Area Chair for ACCV 2022.
+- Two papers have been accepted to CVPR 2022.
 - One paper has been accepted to ICLR 2022.
 >* [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/pdf/2111.07832.pdf)
 - One paper has been accepted to NeurIPS 2021.
