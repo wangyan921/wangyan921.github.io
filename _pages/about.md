@@ -29,7 +29,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 - I will serve as an Area Chair for ACCV 2022.
 - Two papers have been accepted to CVPR 2022.
 >* [ContrastMask: Contrastive Learning to Segment Every Thing](https://arxiv.org/pdf/2203.09775.pdf)
->* [End-to-End Human-Gaze-Target Detection with Transformers]()
+>* [End-to-End Human-Gaze-Target Detection with Transformers](https://arxiv.org/pdf/2203.10433.pdf)
 - One paper has been accepted to ICLR 2022.
 >* [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/pdf/2111.07832.pdf)
 - One paper has been accepted to NeurIPS 2021.

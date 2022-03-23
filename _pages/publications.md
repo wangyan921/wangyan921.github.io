@@ -33,7 +33,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.09775.pdf))
 
-Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​
+Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.10433.pdf))
 
 Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **International Conference on Learning Representations (ICLR)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
 
