@@ -16,7 +16,7 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, Wei Shen. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **arXiv:2203.11709**. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
+Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **arXiv:2203.11709**. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
 
 Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows</font>. **arXiv:2203.10537**. ([PDF](https://arxiv.org/pdf/2203.10537.pdf))
 
