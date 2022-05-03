@@ -35,7 +35,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
-Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.09775.pdf))
+Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.09775.pdf)) ([CODE](https://github.com/huiserwang/ContrastMask))
 
 Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.10433.pdf))
 
