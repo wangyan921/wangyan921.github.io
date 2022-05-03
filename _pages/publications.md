@@ -120,6 +120,8 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 2022.
+
 Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 2022. ([PDF](../files/External_Attention.pdf))
 
 Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2), 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
