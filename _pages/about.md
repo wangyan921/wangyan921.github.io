@@ -32,7 +32,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 >* [BézierPalm: A Free Lunch for Palmprint Recognition](https://arxiv.org/pdf/2203.05703.pdf)
 - Two papers have been accepted to ACM MM 2022.
 >* [Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening]()
->* [Saliency in Augmented Reality]()
+>* [Saliency in Augmented Reality](https://arxiv.org/pdf/2204.08308.pdf)
 - I will serve as an Area Chair for ACCV 2022.
 - Two papers have been accepted to CVPR 2022.
 >* [ContrastMask: Contrastive Learning to Segment Every Thing](https://arxiv.org/pdf/2203.09775.pdf)

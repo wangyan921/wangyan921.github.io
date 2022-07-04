@@ -39,7 +39,7 @@ Kai Zhao, Lei Shen, Yingyi Zhang, Chuhan Zhou, Tao Wang, Ruixin Zhang, Shouhong 
 
 Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022.
 
-Huiyu Duan, **Wei Shen**, Xiongkuo Min, Danyang Tu, Jing Li, Guangtao Zhai. <font color='Navy'>Saliency in Augmented Reality</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022.
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Danyang Tu, Jing Li, Guangtao Zhai. <font color='Navy'>Saliency in Augmented Reality</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2204.08308.pdf))
 
 Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ContrastMask_Contrastive_Learning_To_Segment_Every_Thing_CVPR_2022_paper.pdf)) ([CODE](https://github.com/huiserwang/ContrastMask))
 
