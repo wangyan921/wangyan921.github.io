@@ -16,14 +16,7 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-
-Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **arXiv:2203.11709**. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
-
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **arXiv:2206.01908**. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
-
-Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows</font>. **arXiv:2203.10537**. ([PDF](https://arxiv.org/pdf/2203.10537.pdf))
-
-Kai Zhao, Lei Shen, Yingyi Zhang, Chuhan Zhou, Tao Wang, Ruixin Zhang, Shouhong Ding, Wei Jia, **Wei Shen**. <font color='Navy'>Geometric Synthesis: A Free lunch for Large-scale Palmprint Recognition Model Pretraining</font>. **arXiv:2203.05703**. ([PDF](https://arxiv.org/pdf/2203.05703.pdf))
 
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
@@ -38,9 +31,19 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
-Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.09775.pdf)) ([CODE](https://github.com/huiserwang/ContrastMask))
+Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
 
-Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://arxiv.org/pdf/2203.10433.pdf))
+Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.10537.pdf))
+
+Kai Zhao, Lei Shen, Yingyi Zhang, Chuhan Zhou, Tao Wang, Ruixin Zhang, Shouhong Ding, Wei Jia, **Wei Shen**. <font color='Navy'>BézierPalm: A Free Lunch for Palmprint Recognition</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.05703.pdf))
+
+Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022.
+
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Danyang Tu, Jing Li, Guangtao Zhai. <font color='Navy'>Saliency in Augmented Reality</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022.
+
+Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <font color='Navy'>ContrastMask: Contrastive Learning to Segment Every Thing</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ContrastMask_Contrastive_Learning_To_Segment_Every_Thing_CVPR_2022_paper.pdf)) ([CODE](https://github.com/huiserwang/ContrastMask))
+
+Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_End-to-End_Human-Gaze-Target_Detection_With_Transformers_CVPR_2022_paper.pdf))
 
 Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **International Conference on Learning Representations (ICLR)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
 
@@ -123,9 +126,15 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
+
+Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. on Circuits and Systems for Video Technology**, 2022.
+
 Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 2022.
 
-Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 2022. ([PDF](../files/External_Attention.pdf))
+Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 2022.
+
+Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6), 1346-1357, 2022. ([PDF](../files/External_Attention.pdf))
 
 Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2), 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
 

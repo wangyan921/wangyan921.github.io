@@ -26,6 +26,10 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Three papers have been accepted to ECCV 2022.
+>* [CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation](https://arxiv.org/pdf/2203.11709.pdf)
+>* [Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows](https://arxiv.org/pdf/2203.10537.pdf)
+>* [BézierPalm: A Free Lunch for Palmprint Recognition](https://arxiv.org/pdf/2203.05703.pdf)
 - Two papers have been accepted to ACM MM 2022.
 >* [Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening]()
 >* [Saliency in Augmented Reality]()
