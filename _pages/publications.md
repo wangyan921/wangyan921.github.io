@@ -16,6 +16,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **arXiv:2207.01223**. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
+
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **arXiv:2206.01908**. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
 
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
