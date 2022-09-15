@@ -18,8 +18,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 **Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **arXiv:2207.01223**. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
 
-Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **arXiv:2206.01908**. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
-
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
@@ -33,6 +31,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
+Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
+
 Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
 
 Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.10537.pdf))
