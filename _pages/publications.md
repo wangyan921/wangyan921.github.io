@@ -39,7 +39,7 @@ Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. 
 
 Kai Zhao, Lei Shen, Yingyi Zhang, Chuhan Zhou, Tao Wang, Ruixin Zhang, Shouhong Ding, Wei Jia, **Wei Shen**. <font color='Navy'>BézierPalm: A Free Lunch for Palmprint Recognition</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.05703.pdf))
 
-Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022.
+Yunhao Li, Zhenbo Yu, Yucheng Zhu, Bingbing Ni, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2210.04294.pdf))
 
 Huiyu Duan, **Wei Shen**, Xiongkuo Min, Danyang Tu, Jing Li, Guangtao Zhai. <font color='Navy'>Saliency in Augmented Reality</font>. **ACM International Conference on Multimedia (ACM MM)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2204.08308.pdf))
 
