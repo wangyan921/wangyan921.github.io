@@ -71,6 +71,8 @@ Yuyin Zhou, David Dreizin, **Yan Wang**, Fengze Liu, Wei Shen, Alan Yuille. <fon
 
 **Yan Wang**, Peng Tang, Yuyin Zhou, Wei Shen, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2): 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
 
+Qian Wang, Li Sun, **Yan Wang**, Mei Zhou, Menghan Hu, Jiangang Chen, Ying Wen, Qingli Li. <font color='Navy'>Identification of Melanoma From Hyperspectral Pathology Image Using 3D Convolutional Networks</font>. **IEEE Trans. Medical Imaging**, 40(1): 218-227, 2021. ([PDF](https://ieeexplore.ieee.org/document/9201095))
+
 Wei Shen, Yilu Guo, **Yan Wang**, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404-419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
 
 Lingxi Xie, Qihang Yu, Yuyin Zhou, **Yan Wang**, Elliot Fishman and Alan Yuille. <font color='Navy'>Recurrent Saliency Transformation Network for Tiny Target Segmentation in Abdominal CT Scans</font>. **IEEE Trans. Medical Imaging**, 39(2): 514-525, 2020. ([PDF](https://ieeexplore.ieee.org/abstract/document/8769868)) ([CODE](https://github.com/twni2016/OrganSegRSTN_PyTorch))
