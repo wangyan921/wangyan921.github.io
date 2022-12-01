@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Shen （沈为）"
+title                    : "Yan Wang （王妍）"
 title_separator          : "-"
-name                     : &name "Wei Shen"
+name                     : &name "Yan Wang"
 description              : &description "personal description"
-url                      : https://shenwei1231.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangyan921.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenwei1231/shenwei1231.github.io"
+repository               : "wangyan921/wangyan921.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Shen"
-  avatar           : "Wei-Shen.jpg"
-  bio              : "Associate Professor <br> Shanghai Jiao Tong University"
+  name             : "Yan Wang"
+  avatar           : "yan.png"
+  bio              : "Professor <br> East China Normal University"
   location         : #"Location"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN"
-  email            :  wei.shen@sjtu.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7JeTfIcu67doQV0JCsUlSVR-yo-OMhcsr8ltLyVgigxJHiHKQzWO6xnmTPWM__3inxaZA6sz5youiSrRoasnmLOhT_xPbbg-tXqbCQC_h_wC4PkgE&user=5a1Cmk0AAAAJ"
+  email            :  ywang@cee.ecnu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shenwei1231"
+  github           : "wangyan921"
   google_plus      :
   keybase          :
   instagram        :
