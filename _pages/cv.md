@@ -19,8 +19,8 @@ Work experience
 ======
 * 2020.10 - Present Professor, Shanghai Key Laboratory of Multidimensional Information Processing, **East China Normal University,** 
 * 2017.02 - 2020.08 Postdoc Researcher, Deptartment of Computer Science, **Johns Hopkins University** <br>
-&ensp;&ensp;&ensp;(Supervised by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
-* 2016.02 - 2017.01 Research Assistant, Deptartment of Electrical and Electronic Engineering, **Ohio State University**. (Supervised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~aleix/))				   
+&ensp;&ensp;&ensp;(Working with [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
+* 2016.02 - 2017.01 Research Assistant, Deptartment of Electrical and Electronic Engineering, **Ohio State University**. (Working with [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~aleix/))				   
 
 Grants
 ======
