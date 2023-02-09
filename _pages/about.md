@@ -31,7 +31,7 @@ My research interests lie in the fields of Medical Imaging, Computer Vision, Sha
 - One paper has been accepted to MICCAI 2022.
 >* [S3R: Self-supervised Spectral Regression for Hyperspectral Histopathology Image Classification](https://arxiv.org/abs/2209.08770)
 - One paper has been accepted to CVPR 2022.
->* [CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation](https://arxiv.org/pdf/2203.11709.pdf)
+>* [ContrastMask: Contrastive Learning to Segment Every Thing](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ContrastMask_Contrastive_Learning_To_Segment_Every_Thing_CVPR_2022_paper.pdf?_hsenc=p2ANqtz-9422BQPPpXV9Q_JA-rMK0KYRDYlwg9P_uWsUkJSXK8OFn8K9FVd1L8DRy76SRqS-7xSliE)
 - One paper has been accepted to TMI.
 >* [Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction](../files/IAG-NET-online.pdf)
 
