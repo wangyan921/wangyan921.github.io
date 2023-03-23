@@ -25,7 +25,7 @@ Yunhao Bai, Duowen Chen, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>B
 
 Duowen Chen, Yunhao Bai, Wei Shen, Qingli Li, Lequan Yu, **Yan Wang**. <font color='Navy'>MagicNet: Semi-supervised Multi-organ Segmentation via Magic-Cube Partition and Recovery</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://github.com/DeepMed-Lab-ECNU/MagicNet))
 
-Ming Li, Qingli Li, **Yan Wang**. <font color='Navy'>Class Balanced Adaptive Pseudo Labeling for Federated Semi-supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Ming Li, Qingli Li, **Yan Wang**. <font color='Navy'>Class Balanced Adaptive Pseudo Labeling for Federated Semi-supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://github.com/minglllli/CBAFed))
 
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2023.​ ([PDF](https://arxiv.org/pdf/2111.11745.pdf)) ([CODE](https://github.com/DeepMed-Lab/DeepRFT-AAAI2023))
 
