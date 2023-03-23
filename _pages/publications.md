@@ -21,6 +21,12 @@ Boxiang Yun, **Yan Wang**, Jieneng Chen, Huiyu Wang, Wei Shen, Qingli Li. <font 
 
 **Conference**
 ======
+Yunhao Bai, Duowen Chen, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Bidirectional Copy-Paste for Semi-supervised Medical Image Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Duowen Chen, Yunhao Bai, Wei Shen, Qingli Li, Lequan Yu, **Yan Wang**. <font color='Navy'>MagicNet: Semi-supervised Multi-organ Segmentation via Magic-Cube Partition and Recovery</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://github.com/DeepMed-Lab-ECNU/MagicNet))
+
+Ming Li, Qingli Li, **Yan Wang**. <font color='Navy'>Class Balanced Adaptive Pseudo Labeling for Federated Semi-supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2023.​ ([PDF](https://arxiv.org/pdf/2111.11745.pdf)) ([CODE](https://github.com/DeepMed-Lab/DeepRFT-AAAI2023))
 
 Xingran Xie, **Yan Wang**, Qingli Li. S3R: Self-supervised Spectral Regression for Hyperspectral Histopathology Image Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2022.​ ([PDF](https://arxiv.org/pdf/2209.08770.pdf)) 
