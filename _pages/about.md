@@ -13,7 +13,7 @@ Shanghai Key Laboratory of Multidimensional Information Processing, East China N
 500 Dongchuan Road, 524 Information Building, Shanghai 200240 China
 
 
-<font color=LightCoral>I'm looking for self-motivated students working with me on medical image analysis, computer vision and machine learning for 2023. For prospective students, please send me an email with your CV and transcript.</font>
+<font color=LightCoral>I'm always looking for self-motivated students working with me on medical image analysis, computer vision and machine learning. For prospective students, please send me an email with your CV and transcript.</font>
 
 
 
