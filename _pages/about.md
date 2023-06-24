@@ -26,6 +26,7 @@ My research interests lie in the fields of Medical Imaging, Computer Vision, Sha
 
 **Recent News**
 ======
+- Three papers have been accepted to MICCAI 2023.
 - Three papers have been accepted to CVPR 2023.
 - One paper has been accepted to AAAI 2023.
 >* [Intriguing Findings of Frequency Selection for Image Deblurring](https://arxiv.org/abs/2111.11745)
