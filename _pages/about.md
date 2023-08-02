@@ -26,6 +26,7 @@ My research interests lie in the fields of Medical Imaging, Computer Vision, Sha
 
 **Recent News**
 ======
+- Two papers have been accepted to ACMMM 2023.
 - Three papers have been accepted to MICCAI 2023.
 - Three papers have been accepted to CVPR 2023.
 - One paper has been accepted to AAAI 2023.
