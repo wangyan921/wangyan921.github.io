@@ -21,6 +21,10 @@ Boxiang Yun, **Yan Wang**, Jieneng Chen, Huiyu Wang, Wei Shen, Qingli Li. <font 
 
 **Conference**
 ======
+Boxiang Yun, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>Uni-Dual: A Generic Unified Dual-Task Medical Self-Supervised Learning Framework</font>. **ACM International Conference on Multimedia**, 2023.
+
+Xingran Xie, Ting Jin, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Exploring Hyperspectral Histopathology Image Segmentation from A Deformable Perspective</font>. **ACM International Conference on Multimedia**, 2023. 
+
 Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou, **Yan Wang**. <font color='Navy'>Factor Space and Spectrum for Medical Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
 Ting Jin, Xingran Xie, Renjie Wan, Qingli Li, **Yan Wang**. <font color='Navy'>Gene-induced Multimodal Pre-training for Image-omic Classification</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
