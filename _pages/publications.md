@@ -27,7 +27,7 @@ Xingran Xie, Ting Jin, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>
 
 Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou, **Yan Wang**. <font color='Navy'>Factor Space and Spectrum for Medical Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
-Ting Jin, Xingran Xie, Renjie Wan, Qingli Li, **Yan Wang**. <font color='Navy'>Gene-induced Multimodal Pre-training for Image-omic Classification</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, <font color="red" >**Oral**</font>, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Ting Jin, Xingran Xie, Renjie Wan, Qingli Li, **Yan Wang**. <font color='Navy'>Gene-induced Multimodal Pre-training for Image-omic Classification</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023 <span style="color:LightCoral;">[Oral]</span>.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
 Yushan Xie, Yuejia Yin, Qingli Li, **Yan Wang**. <font color='Navy'>Deep Mutual Distillation for Semi-Supervised Medical Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
@@ -37,7 +37,7 @@ Duowen Chen, Yunhao Bai, Wei Shen, Qingli Li, Lequan Yu, **Yan Wang**. <font col
 
 Ming Li, Qingli Li, **Yan Wang**. <font color='Navy'>Class Balanced Adaptive Pseudo Labeling for Federated Semi-supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Class_Balanced_Adaptive_Pseudo_Labeling_for_Federated_Semi-Supervised_Learning_CVPR_2023_paper.pdf)) ([CODE](https://github.com/minglllli/CBAFed))
 
-Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, <font color="red" >**Oral**</font>, 2023.​ ([PDF](https://arxiv.org/pdf/2111.11745.pdf)) ([CODE](https://github.com/DeepMed-Lab/DeepRFT-AAAI2023))
+Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2023 <span style="color:LightCoral;">[Oral]</span>.​ ([PDF](https://arxiv.org/pdf/2111.11745.pdf)) ([CODE](https://github.com/DeepMed-Lab/DeepRFT-AAAI2023))
 
 Xingran Xie, **Yan Wang**, Qingli Li. S3R: Self-supervised Spectral Regression for Hyperspectral Histopathology Image Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2022.​ ([PDF](https://arxiv.org/pdf/2209.08770.pdf)) 
 
