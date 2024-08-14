@@ -91,9 +91,9 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 
 **Journal**
 ======
-Haofei Song, Xintian Mao, Jing Yu, Qingli Li, **Yan Wang**. <font color='Navy'>I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis</font>. IEEE Transactions on Medical Imaging, 2024.
+Haofei Song, Xintian Mao, Jing Yu, Qingli Li, **Yan Wang**. <font color='Navy'>I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis</font>. **IEEE Transactions on Medical Imaging**, 2024.
 
-Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, Wei Shen, Qingli Li, **Yan Wang**. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. IEEE Transactions on Circuits and Systems for Video Technology, 34(6): 4610-4624, 2024. ([PDF](https://arxiv.org/pdf/2103.03604.pdf))
+Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, Wei Shen, Qingli Li, **Yan Wang**. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Transactions on Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF](https://arxiv.org/pdf/2103.03604.pdf))
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, Wei Shen, Jaemin Son, Christian Wachinger, Liansheng Wang, **Yan Wang**, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
