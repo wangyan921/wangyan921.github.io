@@ -21,6 +21,22 @@ Boxiang Yun, **Yan Wang**, Jieneng Chen, Huiyu Wang, Wei Shen, Qingli Li. <font 
 
 **Conference**
 ======
+Shaojie Guo, Haofei Song, Qingli Li, **Yan Wang**. Spatially-Variant Degradation Model for Dataset-free Super-resolution. **European Conference on Computer Vision (ECCV)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Xintian Mao, Jiansheng Wang, Xingran Xie, Qingli Li, **Yan Wang**. LoFormer: Local Frequency Transformer for Image Deblurring. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Ling Zhang, Boxiang Yun, Xingran Xie, Qingli Li, Xinxing Li, **Yan Wang**. Prompting Whole Slide Image Based Genetic Biomarker Prediction. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Haichuan Dong, Runjie Zhou, Boxiang Yun, Huihui Zhou, Benyan Zhang, Qingli Li, **Yan Wang**. Multi-stage Multi-granularity Focus-tuned Learning Paradigm for Medical HSI Segmentation. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Xintian Mao, Qingli, **Yan Wang**. AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Shitian Zhao, Zhuowan Li, Yadong Lu, Alan Yuille, **Yan Wang**. Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Zhiheng Cheng, Qingyue Wei, Hongru Zhu, **Yan Wang**, Liangqiong Qu, Wei Shao, Yuyin Zhou. Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
+Chongjie Si, Zekun Jiang, Xuehui Wang, **Yan Wang**, Xiaokang Yang, Wei Shen. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
 Boxiang Yun, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>Uni-Dual: A Generic Unified Dual-Task Medical Self-Supervised Learning Framework</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023.
 
 Xingran Xie, Ting Jin, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Exploring Hyperspectral Histopathology Image Segmentation from A Deformable Perspective</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023. 
@@ -80,6 +96,9 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 
 **Journal**
 ======
+Haofei Song, Xintian Mao, Jing Yu, Qingli Li, **Yan Wang**. I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis. IEEE Transactions on Medical Imaging, 2024.
+
+Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, Wei Shen, Qingli Li, **Yan Wang**. SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation. IEEE Transactions on Circuits and Systems for Video Technology, 34(6): 4610-4624, 2024. ([PDF](https://arxiv.org/pdf/2103.03604.pdf))
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, Wei Shen, Jaemin Son, Christian Wachinger, Liansheng Wang, **Yan Wang**, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
