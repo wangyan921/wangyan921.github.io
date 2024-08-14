@@ -20,11 +20,13 @@ Shaojie Guo, Haofei Song, Qingli Li, **Yan Wang**. <font color='Navy'>Spatially-
 
 Xintian Mao, Jiansheng Wang, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>LoFormer: Local Frequency Transformer for Image Deblurring</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
+Siyuan Xu, Guannan Li, Haofei Song, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>GeNSeg-Net: A General Segmentation Framework for Any Nucleus in Immunohistochemistry Images</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+
 Ling Zhang, Boxiang Yun, Xingran Xie, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Prompting Whole Slide Image Based Genetic Biomarker Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
 Haichuan Dong, Runjie Zhou, Boxiang Yun, Huihui Zhou, Benyan Zhang, Qingli Li, **Yan Wang**. <font color='Navy'>Multi-stage Multi-granularity Focus-tuned Learning Paradigm for Medical HSI Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
-Xintian Mao, Qingli, **Yan Wang**. <font color='Navy'>AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Xintian Mao, Qingli Li, **Yan Wang**. <font color='Navy'>AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
 Shitian Zhao, Zhuowan Li, Yadong Lu, Alan Yuille, **Yan Wang**. <font color='Navy'>Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
 
