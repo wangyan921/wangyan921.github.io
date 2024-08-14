@@ -14,11 +14,6 @@ You can also find my full publication list on my [Google Scholar profile](https:
 {% endfor %}
 
 
-**Preprints**
-======
-
-Boxiang Yun, **Yan Wang**, Jieneng Chen, Huiyu Wang, Wei Shen, Qingli Li. <font color='Navy'>SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation</font>. **arXiv:2103.03604**. ([PDF](https://arxiv.org/pdf/2103.03604.pdf))
-
 **Conference**
 ======
 Shaojie Guo, Haofei Song, Qingli Li, **Yan Wang**. Spatially-Variant Degradation Model for Dataset-free Super-resolution. **European Conference on Computer Vision (ECCV)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
