@@ -16,33 +16,40 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
-Shaojie Guo, Haofei Song, Qingli Li, **Yan Wang**. <font color='Navy'>Spatially-Variant Degradation Model for Dataset-free Super-resolution</font>. **European Conference on Computer Vision (ECCV)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Shijie Lin, Boxiang Yun, Wei Shen, Qingli Li, Anqiang Wang, **Yan Wang**. <font color='Navy'>MDN: Mamba-Driven Dualstream Network For
+Medical Hyperspectral Image Segmentation</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2025.​ ([PDF](https://wangyan921.github.io/publications/))
 
-Xintian Mao, Jiansheng Wang, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>LoFormer: Local Frequency Transformer for Image Deblurring</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Xiaoxiang Han, Yiman Liu, Jiang Shang, Qingli Li, Jiangang Chen, Menghan Hu, Qi Zhang, Yuqi Zhang, **Yan Wang**. <font color='Navy'>A Semi-Supervised Approach with Error Reflection for Echocardiography Segmentation</font>. **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2024.​ ([PDF](https://wangyan921.github.io/publications/))
 
-Siyuan Xu, Guannan Li, Haofei Song, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>GeNSeg-Net: A General Segmentation Framework for Any Nucleus in Immunohistochemistry Images</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Shaojie Guo, Haofei Song, Qingli Li, **Yan Wang**. <font color='Navy'>Spatially-Variant Degradation Model for Dataset-free Super-resolution</font>. **European Conference on Computer Vision (ECCV)**, 2024.​ ([PDF](https://arxiv.org/abs/2407.08252))
 
-Ling Zhang, Boxiang Yun, Xingran Xie, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Prompting Whole Slide Image Based Genetic Biomarker Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Xintian Mao, Jiansheng Wang, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>LoFormer: Local Frequency Transformer for Image Deblurring</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://arxiv.org/abs/2407.16993)) 
 
-Haichuan Dong, Runjie Zhou, Boxiang Yun, Huihui Zhou, Benyan Zhang, Qingli Li, **Yan Wang**. <font color='Navy'>Multi-stage Multi-granularity Focus-tuned Learning Paradigm for Medical HSI Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Siyuan Xu, Guannan Li, Haofei Song, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>GeNSeg-Net: A General Segmentation Framework for Any Nucleus in Immunohistochemistry Images</font>. **ACM International Conference on Multimedia (ACMMM)**, 2024. ([PDF](https://dl.acm.org/doi/10.1145/3664647.3681441)) 
 
-Xintian Mao, Qingli Li, **Yan Wang**. <font color='Navy'>AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, **Yan Wang**, Qi Dou, Xiaokang Yang, Wei Shen. <font color='Navy'>EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://arxiv.org/abs/2403.15124))
 
-Shitian Zhao, Zhuowan Li, Yadong Lu, Alan Yuille, **Yan Wang**. <font color='Navy'>Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Ling Zhang, Boxiang Yun, Xingran Xie, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Prompting Whole Slide Image Based Genetic Biomarker Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://arxiv.org/abs/2407.09540)) 
 
-Zhiheng Cheng, Qingyue Wei, Hongru Zhu, **Yan Wang**, Liangqiong Qu, Wei Shao, Yuyin Zhou. <font color='Navy'>Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Haichuan Dong, Runjie Zhou, Boxiang Yun, Huihui Zhou, Benyan Zhang, Qingli Li, **Yan Wang**. <font color='Navy'>Multi-stage Multi-granularity Focus-tuned Learning Paradigm for Medical HSI Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2024.​ ([PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-72111-3_43)) 
 
-Chongjie Si, Zekun Jiang, Xuehui Wang, **Yan Wang**, Xiaokang Yang, Wei Shen. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2024. ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Xintian Mao, Qingli Li, **Yan Wang**. <font color='Navy'>AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://arxiv.org/abs/2406.09135))
 
-Boxiang Yun, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>Uni-Dual: A Generic Unified Dual-Task Medical Self-Supervised Learning Framework</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023.
+Shitian Zhao, Zhuowan Li, Yadong Lu, Alan Yuille, **Yan Wang**. <font color='Navy'>Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://arxiv.org/abs/2312.06685))
 
-Xingran Xie, Ting Jin, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Exploring Hyperspectral Histopathology Image Segmentation from A Deformable Perspective</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023. 
+Zhiheng Cheng, Qingyue Wei, Hongru Zhu, **Yan Wang**, Liangqiong Qu, Wei Shao, Yuyin Zhou. <font color='Navy'>Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. ([PDF](https://arxiv.org/abs/2403.18271))
 
-Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou, **Yan Wang**. <font color='Navy'>Factor Space and Spectrum for Medical Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Chongjie Si, Zekun Jiang, Xuehui Wang, **Yan Wang**, Xiaokang Yang, Wei Shen. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2024. ([PDF](https://wangyan921.github.io/)) 
 
-Ting Jin, Xingran Xie, Renjie Wan, Qingli Li, **Yan Wang**. <font color='Navy'>Gene-induced Multimodal Pre-training for Image-omic Classification</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023 <span style="color:LightCoral;">[Oral]</span>.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Boxiang Yun, Xingran Xie, Qingli Li, **Yan Wang**. <font color='Navy'>Uni-Dual: A Generic Unified Dual-Task Medical Self-Supervised Learning Framework</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023. ([PDF](https://dl.acm.org/doi/10.1145/3581783.3612335))
 
-Yushan Xie, Yuejia Yin, Qingli Li, **Yan Wang**. <font color='Navy'>Deep Mutual Distillation for Semi-Supervised Medical Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://wangyan921.github.io/)) ([CODE](https://wangyan921.github.io/))
+Xingran Xie, Ting Jin, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Exploring Hyperspectral Histopathology Image Segmentation from A Deformable Perspective</font>. **ACM International Conference on Multimedia (ACMMM)**, 2023. ([PDF](https://dl.acm.org/doi/10.1145/3581783.3611796))
+
+Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou, **Yan Wang**. <font color='Navy'>Factor Space and Spectrum for Medical Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_15))
+
+Ting Jin, Xingran Xie, Renjie Wan, Qingli Li, **Yan Wang**. <font color='Navy'>Gene-induced Multimodal Pre-training for Image-omic Classification</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023 <span style="color:LightCoral;">[Oral]</span>.​ ([PDF](https://arxiv.org/abs/2309.02702)) 
+
+Yushan Xie, Yuejia Yin, Qingli Li, **Yan Wang**. <font color='Navy'>Deep Mutual Distillation for Semi-Supervised Medical Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2023.​ ([PDF](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_52)) 
 
 Yunhao Bai, Duowen Chen, Qingli Li, Wei Shen, **Yan Wang**. <font color='Navy'>Bidirectional Copy-Paste for Semi-supervised Medical Image Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_Bidirectional_Copy-Paste_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf)) ([CODE](https://github.com/DeepMed-Lab-ECNU/BCP))
 
