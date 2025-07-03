@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6ae4856c-651d-4426-bb37-f45ad1f179f5)---
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
@@ -16,6 +16,16 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
+Ling Zhang, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Historical Report Guided Bi-modal Concurrent
+Learning for Pathology Report Generation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
+
+Yijing Zhou, Yadong Lu, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
+
+Qing Zhang, Guoquan Pei, **Yan Wang**. <font color='Navy'>Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
+
+
+Siyuan Xu, Haofei Song, Yingjiao Deng, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>Advancing Stain Transfer for Multi-Biomarkers: A Human Annotation-Free Method Based on Auxiliary Task Supervision</font>. **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025.​ 
+
 Shijie Lin, Boxiang Yun, Wei Shen, Qingli Li, Anqiang Yang, **Yan Wang**. <font color='Navy'>MDN: Mamba-Driven Dualstream Network For
 Medical Hyperspectral Image Segmentation</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2025.​ ([PDF](https://wangyan921.github.io/publications/))
 
@@ -100,7 +110,14 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 
 **Journal**
 ======
-Haofei Song, Xintian Mao, Jing Yu, Qingli Li, **Yan Wang**. <font color='Navy'>I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis</font>. **IEEE Transactions on Medical Imaging**, 2024.
+Ting Jin, Xingran Xie, Qingli Li, IEEE, Xinxing Li, and **Yan Wang**. <font color='Navy'>Clinical Stage Prompt Induced Multi-modal
+Prognosis</font>. **IEEE Transactions on Medical Imaging**, 2025. 
+
+**Yan Wang**, Xingran Xie, Lili Gao, Benyan Zhang, Chunhua Zhou, Duowu Zou, Le Lu, Qingli Li. <font color='Navy'>S4R: Separated Self-Supervised Spectral Regression for Hyperspectral Histopathology Image Diagnosis</font>. **IEEE Transactions on Image Processing**, 34: 3748-3763, 2025. ([PDF](https://ieeexplore.ieee.org/document/11026788))
+
+Can Hu, Yingda Xia, Zhilin Zheng, Mengxuan Cao, Guoliang Zheng, Shanggi Chen, Jiancheng Sun,Wujie Chen, Qi Zheng, Siwei Pan, Yangiang Zhang, jiahui Chen, Pengfei Yu, jingli Xu, Jianwei Xu,Zhongwei Qiu, Tiancheng Lin, Boxiang Yun, Jiawen Yao, Wenchao Guo, Chen Gao, Xianghui Kong, KedaChen, Zhengle Wen, Guanxia Zhu, jinfang Qiao, Yibo Pan, Huan Li, Xijun Gong, Zaisheng Ye, WeiqunAo, Lei Zhang, Xing Yan, Yahan Tong, Xinxin Yang, Xiaozhong Zheng, Shufeng Fan, jielu Cao, ChengYan, Kangjie Xie, Shengjie Zhang, Yao Wang, Lin Zheng, Yingjie Wu, Zufeng Ge, Xiyuan Tian, Xin Zhang, **Yan Wang**, Ruolan Zhang, Yizhou Wei, Weiwei Zhu, jianfeng Zhang, Hanjun Qiu, Miaoguang Su, Lei Shi, Zhiyuan Xu, Ling Zhang, Xiangdong Cheng. <font color='Navy'>Al-based Large-scale Screening of Gastric Cancer from Noncontrast CT Imaging</font>. **Nature Medicine**, 2025. ([PDF]([https://arxiv.org/pdf/2106.05735.pdf](https://www.nature.com/articles/s41591-025-03785-6)))
+
+Haofei Song, Xintian Mao, Jing Yu, Qingli Li, **Yan Wang**. <font color='Navy'>I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis</font>. **IEEE Transactions on Medical Imaging**, 43(9): 3306-3318, 2024.
 
 Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, Wei Shen, Qingli Li, **Yan Wang**. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Transactions on Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF](https://arxiv.org/pdf/2103.03604.pdf))
 
