@@ -98,7 +98,6 @@ Wei Shen, Bin Wang, Yuan Jiang, **Yan Wang**, Alan Yuille. <font color='Navy'>Mu
 Fabian Benitez-Quiroz, **Yan Wang**, Aleix M. Martinez. <font color='Navy'>Recognition of Action Units in the Wild with Deep Nets and a New Global-Local Loss</font>. **IEEE International Conference on Computer Vision (ICCV)**, 2017 ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Benitez-Quiroz_Recognition_of_Action_ICCV_2017_paper.pdf)) 
 
 Yuyin Zhou, Lingxi Xie, Wei Shen, **Yan Wang**, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) 
-​<br><br>
 
 Wei Shen, Kai Zhao, Yuan Jiang, **Yan Wang**, Zhijiang Zhang, Xiang Bai. <font color='Navy'>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2016.([PDF](../files/deepskeleton_final.pdf)) ([Supplementary Material](../files/supplementarymaterial_final.pdf)) ([CODE](https://github.com/zeakey/DeepSkeleton)) ([PR-curve Data](../files/pr-curve.zip)) ([SK-SMALL Dataset](../files/sk506.zip)) 
 
