@@ -25,8 +25,7 @@ Qing Zhang, Guoquan Pei, **Yan Wang**. <font color='Navy'>Omni-Fusion of Spatial
 
 Siyuan Xu, Haofei Song, Yingjiao Deng, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>Advancing Stain Transfer for Multi-Biomarkers: A Human Annotation-Free Method Based on Auxiliary Task Supervision</font>. **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025.​ 
 
-Shijie Lin, Boxiang Yun, Wei Shen, Qingli Li, Anqiang Yang, **Yan Wang**. <font color='Navy'>MDN: Mamba-Driven Dualstream Network For
-Medical Hyperspectral Image Segmentation</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2025.​ ([PDF](https://wangyan921.github.io/publications/))
+Shijie Lin, Boxiang Yun, Wei Shen, Qingli Li, Anqiang Yang, **Yan Wang**. <font color='Navy'>MDN: Mamba-Driven Dualstream Network For Medical Hyperspectral Image Segmentation</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2025.​ ([PDF](https://wangyan921.github.io/publications/))
 
 Xiaoxiang Han, Yiman Liu, Jiang Shang, Qingli Li, Jiangang Chen, Menghan Hu, Qi Zhang, Yuqi Zhang, **Yan Wang**. <font color='Navy'>A Semi-Supervised Approach with Error Reflection for Echocardiography Segmentation</font>. **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2024.​ ([PDF](https://wangyan921.github.io/publications/))
 
