@@ -22,7 +22,6 @@ Yijing Zhou, Yadong Lu, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>
 
 Qing Zhang, Guoquan Pei, **Yan Wang**. <font color='Navy'>Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
 
-
 Siyuan Xu, Haofei Song, Yingjiao Deng, Jiansheng Wang, **Yan Wang**, Qingli Li. <font color='Navy'>Advancing Stain Transfer for Multi-Biomarkers: A Human Annotation-Free Method Based on Auxiliary Task Supervision</font>. **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025.​ 
 
 Shijie Lin, Boxiang Yun, Wei Shen, Qingli Li, Anqiang Yang, **Yan Wang**. <font color='Navy'>MDN: Mamba-Driven Dualstream Network For Medical Hyperspectral Image Segmentation</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2025.​ ([PDF](https://wangyan921.github.io/publications/))
