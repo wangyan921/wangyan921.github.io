@@ -16,8 +16,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
-Ling Zhang, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Historical Report Guided Bi-modal Concurrent
-Learning for Pathology Report Generation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
+Ling Zhang, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
 
 Yijing Zhou, Yadong Lu, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
 
