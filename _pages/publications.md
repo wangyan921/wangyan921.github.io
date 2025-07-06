@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6ae4856c-651d-4426-bb37-f45ad1f179f5)---
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
