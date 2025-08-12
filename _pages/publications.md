@@ -106,6 +106,8 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 
 **Journal**
 ======
+Boxiang Yun, Shitian Zhao, Qingli Li, Alex Kot, and **Yan Wang**. <font color='Navy'>Debiasing Medical Knowledge for Prompting Universal Model in CT Image Segmentation</font>. **IEEE Transactions on Medical Imaging**, 2025. 
+
 Ting Jin, Xingran Xie, Qingli Li, IEEE, Xinxing Li, and **Yan Wang**. <font color='Navy'>Clinical Stage Prompt Induced Multi-modal Prognosis</font>. **IEEE Transactions on Medical Imaging**, 2025. 
 
 **Yan Wang**, Xingran Xie, Lili Gao, Benyan Zhang, Chunhua Zhou, Duowu Zou, Le Lu, Qingli Li. <font color='Navy'>S4R: Separated Self-Supervised Spectral Regression for Hyperspectral Histopathology Image Diagnosis</font>. **IEEE Transactions on Image Processing**, 34: 3748-3763, 2025. ([PDF](https://ieeexplore.ieee.org/document/11026788))
