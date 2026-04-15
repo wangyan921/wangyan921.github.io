@@ -20,23 +20,16 @@ Shanghai Key Laboratory of Multidimensional Information Processing, East China N
 
 **Research Interests**
 ======
-My research interests lie in the fields of Medical Imaging, Computer Vision, Shape Modeling, Object Recognition. 
+My research interests lie in the fields of Medical Imaging and Computer Vision. 
 
 
 
 **Recent News**
 ======
-- Two papers have been accepted to ACMMM 2023.
-- Three papers have been accepted to MICCAI 2023.
-- Three papers have been accepted to CVPR 2023.
-- One paper has been accepted to AAAI 2023.
->* [Intriguing Findings of Frequency Selection for Image Deblurring](https://arxiv.org/abs/2111.11745)
-- One paper has been accepted to MICCAI 2022.
->* [S3R: Self-supervised Spectral Regression for Hyperspectral Histopathology Image Classification](https://arxiv.org/abs/2209.08770)
-- One paper has been accepted to CVPR 2022.
->* [ContrastMask: Contrastive Learning to Segment Every Thing](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ContrastMask_Contrastive_Learning_To_Segment_Every_Thing_CVPR_2022_paper.pdf?_hsenc=p2ANqtz-9422BQPPpXV9Q_JA-rMK0KYRDYlwg9P_uWsUkJSXK8OFn8K9FVd1L8DRy76SRqS-7xSliE)
-- One paper has been accepted to TMI.
->* [Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction](../files/IAG-NET-online.pdf)
+- I was awarded CSIG Shi Qingyun Female Scientist Award.
+- Our work won the Second Prize (National Level) in the Challenge Cup Competition.
+- I will serve as an Area Chair for CVPR 2026.
+- Our paper at MICCAI 2025 has been awarded the MICCAI Best Computational Pathology Paper Award.
 
 
 **Short Bio**
