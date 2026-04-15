@@ -15,7 +15,7 @@ Shanghai Key Laboratory of Multidimensional Information Processing, East China N
 
 <font color=LightCoral>I'm always looking for self-motivated students working with me on medical image analysis, computer vision and machine learning. For prospective students, please send me an email with your CV and transcript.</font>
 
-
+<p>
 
 
 **Research Interests**
