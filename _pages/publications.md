@@ -23,6 +23,8 @@ Vision-Language Models</font>. **IEEE International Conference on Acoustics, Spe
 
 Shaojie Guo, Yingying Fang, Junkang Zhang, **Yan Wang**. <font color='Navy'>Physics-Aware Accelerated Unrolling Model for Sparse-View CT Reconstruction</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2026. ([PDF](https://ojs.aaai.org/index.php/AAAI/article/view/42442))
 
+Hang Guo, Qing Zhang, Zixuan Gao, Siyuan Yang, Shulin Peng, Xiang Tao, Ting Yu, **Yan Wang**, Qingli Li. <font color='Navy'>Efficient Multi-Slide Visual-Language Feature Fusion for Placental Disease Classification</font>. **ACM International Conference on Multimedia (ACMMM)**, 2025. ([PDF](https://arxiv.org/abs/2508.03277))
+
 Ling Zhang, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
 
 Yijing Zhou, Yadong Lu, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
