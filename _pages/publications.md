@@ -16,6 +16,13 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
+Duowen Chen, **Yan Wang**. ProxyFL: <font color='Navy'>A Proxy-Guided Framework for Federated Semi-Supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. ([PDF](https://arxiv.org/abs/2602.21078))
+
+Yadong Lu, Shitian Zhao, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Revisiting Prototypes for Open-Domain Continual Learning in
+Vision-Language Models</font>. **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026.
+
+Shaojie Guo, Yingying Fang, Junkang Zhang, **Yan Wang**. <font color='Navy'>Physics-Aware Accelerated Unrolling Model for Sparse-View CT Reconstruction</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, 2026. ([PDF](https://ojs.aaai.org/index.php/AAAI/article/view/42442))
+
 Ling Zhang, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
 
 Yijing Zhou, Yadong Lu, Qingli Li, Xinxing Li, **Yan Wang**. <font color='Navy'>Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2025.
