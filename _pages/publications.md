@@ -16,6 +16,18 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
+Haofei Song, Siyuan Xu, Xintian Mao, Shaojie Guo, Qingli Li, and Yan Wang. <font color='Navy'>Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution</front>. **European Conference on Computer Vision (ECCV)**, 2026
+
+Jiajun Cen, Siyuan Xu, Lili Gao, Yan Wang. <font color='Navy'>Histocomponent-driven Universal Model for Virtual Immunohistochemistry Multiplex Staining via Joint Manifold Evolution</front>. **European Conference on Computer Vision (ECCV)**, 2026
+
+Haotian Yang, Qing Zhang, Qingli Li, **Yan Wang**. <font color='Navy'>Angular-Constrained Hyperbolic Learning for Hierarchical Multimodal Survival Prediction</front>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. 
+
+Weikun Lin, Yunhao Bai, **Yan Wang**. <font color='Navy'>RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation</front>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. 
+
+Zheng Lu, Peng Yu, **Yan Wang**. <font color='Navy'>Cycle-Veriffed Gentle Teaching and Confusion Correction for Label-Scarce Cross-Modal Single-Cell Annotation</front>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. 
+
+Peng Yu, Duowen Chen, Yunhao Bai, **Yan Wang**. <font color='Navy'>SAM2 as a Key Bridge Between 2D Slices and 3D Volumes for Sparsely-supervised Medical Image Segmentation</front>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026.​
+
 Duowen Chen, **Yan Wang**. ProxyFL: <font color='Navy'>A Proxy-Guided Framework for Federated Semi-Supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. ([PDF](https://arxiv.org/abs/2602.21078))
 
 Yadong Lu, Shitian Zhao, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Revisiting Prototypes for Open-Domain Continual Learning in
@@ -115,6 +127,8 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 
 **Journal**
 ======
+Yingda Xia, Boxiang Yun, Mingze Yuan, Yueyi Zhang, Tingting Zhang, Tony C. W. Mok, Lina Lin, Guodong Jing, Yunhao Bai, Ning Zhang, Kai Zhang, Chao Ma, Xiaochen Feng, Jiacheng Yang, Qinghui Yu, Shuai Zhao, Zufeng Chen, Lukas Lambert, Yu Luo, Wei Tang, Yu Shi, Dengbin Wang, Jianping Lu, Chengwei Shao, **Yan Wang**, Ling Zhang, Kai Cao. High-fidelity Virtual Contrast-enhanced CT via Generative Artificial Intelligence for Pancreatic Oncology: a Retrospective Multicentre Study. **Lancet Digit Health**. 2026. 
+
 Boxiang Yun, Shitian Zhao, Qingli Li, Alex Kot, and **Yan Wang**. <font color='Navy'>Debiasing Medical Knowledge for Prompting Universal Model in CT Image Segmentation</font>. **IEEE Transactions on Medical Imaging**, 2025. 
 
 Ting Jin, Xingran Xie, Qingli Li, IEEE, Xinxing Li, and **Yan Wang**. <font color='Navy'>Clinical Stage Prompt Induced Multi-modal Prognosis</font>. **IEEE Transactions on Medical Imaging**, 2025. 
