@@ -28,7 +28,7 @@ Zheng Lu, Peng Yu, **Yan Wang**. <font color='Navy'>Cycle-Veriffed Gentle Teachi
 
 Peng Yu, Duowen Chen, Yunhao Bai, **Yan Wang**. <font color='Navy'>SAM2 as a Key Bridge Between 2D Slices and 3D Volumes for Sparsely-supervised Medical Image Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026.​
 
-Duowen Chen, **Yan Wang**. ProxyFL: <font color='Navy'>A Proxy-Guided Framework for Federated Semi-Supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. ([PDF](https://arxiv.org/abs/2602.21078))
+Duowen Chen, **Yan Wang**. <font color='Navy'>ProxyFL: A Proxy-Guided Framework for Federated Semi-Supervised Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. ([PDF](https://arxiv.org/abs/2602.21078))
 
 Yadong Lu, Shitian Zhao, Boxiang Yun, Qingli Li, **Yan Wang**. <font color='Navy'>Revisiting Prototypes for Open-Domain Continual Learning in
 Vision-Language Models</font>. **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026.
