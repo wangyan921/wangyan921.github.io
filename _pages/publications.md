@@ -16,9 +16,9 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Conference**
 ======
-Haofei Song, Siyuan Xu, Xintian Mao, Shaojie Guo, Qingli Li, and Yan Wang. <font color='Navy'>Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution</font>. **European Conference on Computer Vision (ECCV)**, 2026
+Haofei Song, Siyuan Xu, Xintian Mao, Shaojie Guo, Qingli Li, and **Yan Wang**. <font color='Navy'>Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution</font>. **European Conference on Computer Vision (ECCV)**, 2026
 
-Jiajun Cen, Siyuan Xu, Lili Gao, Yan Wang. <font color='Navy'>Histocomponent-driven Universal Model for Virtual Immunohistochemistry Multiplex Staining via Joint Manifold Evolution</font>. **European Conference on Computer Vision (ECCV)**, 2026
+Jiajun Cen, Siyuan Xu, Lili Gao, **Yan Wang**. <font color='Navy'>Histocomponent-driven Universal Model for Virtual Immunohistochemistry Multiplex Staining via Joint Manifold Evolution</font>. **European Conference on Computer Vision (ECCV)**, 2026
 
 Haotian Yang, Qing Zhang, Qingli Li, **Yan Wang**. <font color='Navy'>Angular-Constrained Hyperbolic Learning for Hierarchical Multimodal Survival Prediction</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. 
 
