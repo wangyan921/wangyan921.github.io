@@ -131,7 +131,7 @@ Wei Shen, Xinggang Wang, **Yan Wang**, Xiang Bai, Zhijiang Zhang. <font color='N
 ======
 Yingda Xia, Boxiang Yun, Mingze Yuan, Yueyi Zhang, Tingting Zhang, Tony C. W. Mok, Lina Lin, Guodong Jing, Yunhao Bai, Ning Zhang, Kai Zhang, Chao Ma, Xiaochen Feng, Jiacheng Yang, Qinghui Yu, Shuai Zhao, Zufeng Chen, Lukas Lambert, Yu Luo, Wei Tang, Yu Shi, Dengbin Wang, Jianping Lu, Chengwei Shao, **Yan Wang**, Ling Zhang, Kai Cao. <font color='Navy'>High-fidelity Virtual Contrast-enhanced CT via Generative Artificial Intelligence for Pancreatic Oncology: a Retrospective Multicentre Study</font>. **Lancet Digital Health**. 2026. 
 
-Ling Zhang, Boxiang Yun, Ting Jin, Qingli Li, Xinxing Li, and **Yan Wang**. <font color='Navy'>Dictionary-based Pathology Mining withHard-instance-assisted Classifier Debiasing forGenetic Biomarker Prediction from WSIs</font>. **IEEE Transactions on Medical Imaging**, 2026. 
+Ling Zhang, Boxiang Yun, Ting Jin, Qingli Li, Xinxing Li, and **Yan Wang**. <font color='Navy'>Dictionary-based Pathology Mining with Hard-instance-assisted Classifier Debiasing for Genetic Biomarker Prediction from WSIs</font>. **IEEE Transactions on Medical Imaging**, 2026. 
 
 Boxiang Yun, Shitian Zhao, Qingli Li, Alex Kot, and **Yan Wang**. <font color='Navy'>Debiasing Medical Knowledge for Prompting Universal Model in CT Image Segmentation</font>. **IEEE Transactions on Medical Imaging**, 2025. 
 
