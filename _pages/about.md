@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Professor <br>
+Deputy Director
 Shanghai Key Laboratory of Multidimensional Information Processing, East China Normal University, <br>
 500 Dongchuan Road, 524 Information Building, Shanghai 200240 China
 
